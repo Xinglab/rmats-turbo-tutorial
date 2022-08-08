@@ -1,0 +1,1020 @@
+Run	CCLE_name	Cell_Line	disease	disease_stage	shape	Generic.EMT.CL.Ksscore	Generic.EMT.CL.pv	Tissue
+SRR8615223	OCIMY5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIMY5	NA	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615226	OE19_OESOPHAGUS	OE19	carcinoma (adenocarcinoma)	primary	AHERENT EPITHELIAL;	-7.52E-01	3.46E-20	oesophagus
+SRR8615227	OE21_OESOPHAGUS	OE21	carcinoma (squamous_cell_carcinoma)	primary	ADHERENT EPITHELIAL;	NA	NA	oesophagus
+SRR8615228	OE33_OESOPHAGUS	OE33	other (metaplasia)	primary	"EPITHELIAL, ADHERENT"	-4.66E-01	3.32E-08	oesophagus
+SRR8615229	OELE_OVARY	OELE	other (immortalized_epithelial)	NA	NA	NA	NA	ovary
+SRR8615230	ONCODG1_OVARY	ONCO-DG-1	carcinoma (adenocarcinoma)	metastasis		NA	NA	ovary
+SRR8615231	MESSA_SOFT_TISSUE	MES-SA	sarcoma	primary	Fibroblast  adherent	NA	NA	soft_tissue
+SRR8615232	MELJUSO_SKIN	MEL-JUSO	malignant_melanoma	primary	"Adherent epithelial, monolayer"	5.27E-01	2.67E-10	skin
+SRR8615234	MEG01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEG-01	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary		3.88E-01	6.63E-06	haematopoietic_and_lymphoid_tissue
+SRR8615236	MFE296_ENDOMETRIUM	MFE-296	carcinoma (adenocarcinoma)	primary		5.48E-01	4.69E-11	endometrium
+SRR8615237	MFE280_ENDOMETRIUM	MFE-280	carcinoma (adenocarcinoma)	primary		2.19E-01	2.27E-02	endometrium
+SRR8615238	MEWO_SKIN	MeWo	malignant_melanoma	metastasis		5.21E-01	4.38E-10	skin
+SRR8615239	MHHCALL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHH-CALL-2	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	"single, relatively small round cells growing in suspention"	2.87E-01	1.43E-03	haematopoietic_and_lymphoid_tissue
+SRR8615240	MG63_BONE	MG-63	osteosarcoma	primary		6.85E-01	7.27E-17	bone
+SRR8615241	PANC0213_PANCREAS	Panc 02.13	carcinoma	primary		-1.40E-01	2.10E-01	pancreas
+SRR8615243	OAW28_OVARY	OAW28	carcinoma	primary		NA	NA	ovary
+SRR8615244	NUGC4_STOMACH	NUGC-4	carcinoma (signet_ring_adenocarcinoma)	metastasis		-5.54E-01	2.59E-11	stomach
+SRR8615247	CAPAN1_PANCREAS	Capan-1	carcinoma (ductal_carcinoma)	metastasis	Adherent	-4.69E-01	2.75E-08	pancreas
+SRR8615249	CAS1_CENTRAL_NERVOUS_SYSTEM	CAS-1	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Adherenet	7.65E-01	6.72E-21	central_nervous_system
+SRR8615250	CFPAC1_PANCREAS	CFPAC-1	carcinoma (ductal_carcinoma)	metastasis	mixed line  ~ 50-50	-2.53E-01	6.14E-03	pancreas
+SRR8615252	NCIH2073_LUNG	NCI-H2073	carcinoma (adenocarcinoma)	primary	adherent epithelial	NA	NA	lung
+SRR8615253	NCIH2066_LUNG	NCI-H2066	carcinoma (small_cell_carcinoma)	primary		2.53E-01	6.36E-03	lung
+SRR8615254	NCIH2052_PLEURA	NCI-H2052	mesothelioma	metastasis	adherent	6.65E-01	5.90E-16	pleura
+SRR8615255	NCIH2030_LUNG	NCI-H2030	carcinoma (non_small_cell_carcinoma)	metastasis	adherent; epithelial	4.64E-01	3.76E-08	lung
+SRR8615257	NCIH2023_LUNG	NCI-H2023	carcinoma (adenocarcinoma)	metastasis	adherent	3.46E-01	7.49E-05	lung
+SRR8615258	NCIH2009_LUNG	NCI-H2009	carcinoma (adenocarcinoma)	metastasis		1.54E-01	1.53E-01	lung
+SRR8615260	NCIH1975_LUNG	NCI-H1975	carcinoma (non_small_cell_carcinoma)	primary	ADHERENT EPITHELIAL;	3.21E-01	2.89E-04	lung
+SRR8615262	OCIM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-M1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M6)"	primary	round cells growind singly in suspention	2.64E-01	4.04E-03	haematopoietic_and_lymphoid_tissue
+SRR8615263	OCILY3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-LY3	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	primary	SUSPENSION	2.80E-01	2.02E-03	haematopoietic_and_lymphoid_tissue
+SRR8615264	CAL51_BREAST	CAL-51	carcinoma	metastasis	epithelial-like adherent cells growing in monolayers; the culture contains usually a large amount of cell debris	3.76E-01	1.36E-05	breast
+SRR8615265	CAL33_UPPER_AERODIGESTIVE_TRACT	CAL-33	carcinoma (squamous_cell_carcinoma)	primary	epitheloid cells growing adherent in monolayers	NA	NA	upper_aerodigestive_tract
+SRR8615266	CAL29_URINARY_TRACT	CAL-29	carcinoma (transitional_cell_carcinoma)	primary	Adherent	-2.59E-01	4.99E-03	urinary_tract
+SRR8615269	CAL12T_LUNG	CAL-12T	carcinoma (non_small_cell_carcinoma)	primary		-2.37E-01	1.15E-02	lung
+SRR8615271	CAKI2_KIDNEY	Caki-2	carcinoma (clear_cell_renal_cell_carcinoma)	primary		3.95E-01	4.12E-06	kidney
+SRR8615274	ECGI10_OESOPHAGUS	EC-GI-10	carcinoma	primary	epithelial-like	NA	NA	oesophagus
+SRR8615275	HEC1A_ENDOMETRIUM	HEC-1-A	carcinoma (adenocarcinoma)	primary		-2.17E-01	2.40E-02	endometrium
+SRR8615276	HEC151_ENDOMETRIUM	HEC-151	carcinoma (adenocarcinoma)	primary	epithelial-like	1.53E-01	1.56E-01	endometrium
+SRR8615277	HEC108_ENDOMETRIUM	HEC-108	carcinoma (adenocarcinoma)	primary		-6.72E-02	6.99E-01	endometrium
+SRR8615278	HDQP1_BREAST	HDQ-P1	carcinoma (ductal_carcinoma)	primary	adherent monolayers	-1.62E-01	1.23E-01	breast
+SRR8615281	HCT15_LARGE_INTESTINE	HCT-15	carcinoma (adenocarcinoma)	primary		-3.55E-01	4.67E-05	large_intestine
+SRR8615284	HCC827_LUNG	HCC827	carcinoma (adenocarcinoma)	primary	Adherent	1.60E-01	1.32E-01	lung
+SRR8615287	EFO27_OVARY	EFO-27	carcinoma (mucinous_carcinoma)	metastasis		2.81E-01	1.87E-03	ovary
+SRR8615288	EHEB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EHEB	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)	primary	"lymphoblastoid, round to polygonal, single or clustered cells in suspention"	1.81E-01	7.42E-02	haematopoietic_and_lymphoid_tissue
+SRR8615296	PK1_PANCREAS	PK-1	carcinoma	primary	Adherent	-3.27E-01	2.13E-04	pancreas
+SRR8615297	DU4475_BREAST	DU4475	carcinoma (ductal_carcinoma)	metastasis	"suspension, multicell aggregates"	-1.17E-01	3.36E-01	breast
+SRR8615301	PC9_LUNG	PC9	NA	NA	NA	NA	NA	lung
+SRR8615311	SNU387_LIVER	SNU-387	carcinoma (hepatocellular_carcinoma)	primary	adherent epithelial	6.92E-01	3.15E-17	liver
+SRR8615312	SNU349_KIDNEY	SNU-349	carcinoma (clear_cell_renal_cell_carcinoma)	primary	epithelial adherent	NA	NA	kidney
+SRR8615313	SNU324_PANCREAS	SNU-324	carcinoma	primary	epithelial;monolayer and floating	NA	NA	pancreas
+SRR8615316	SNU410_PANCREAS	SNU-410	carcinoma	primary	epithelial; monolayer	4.92E-01	4.48E-09	pancreas
+SRR8615320	HS766T_PANCREAS	Hs 766T	carcinoma (ductal_carcinoma)	metastasis		3.66E-01	2.36E-05	pancreas
+SRR8615323	HS822T_FIBROBLAST	Hs 822.T	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	primary		NA	NA	bone
+SRR8615324	HS834T_FIBROBLAST	Hs 834.T	malignant_melanoma	metastasis	large adherent cells	NA	NA	skin
+SRR8615325	HS819T_FIBROBLAST	Hs 819.T	chondrosarcoma	primary		NA	NA	bone
+SRR8615326	HS821T_FIBROBLAST	Hs 821.T	giant_cell_tumour	primary		NA	NA	bone
+SRR8615329	NCIH1105_LUNG	NCI-H1105	carcinoma (small_cell_carcinoma)	metastasis	Suspension	2.27E-01	1.68E-02	lung
+SRR8615330	SF767_CERVIX	SF767	glioma (astrocytoma_Grade_III-IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615333	UO31_KIDNEY	UO-31	carcinoma (renal_cell_carcinoma)	primary	Adherent	NA	NA	kidney
+SRR8615335	UMUC1_URINARY_TRACT	UM-UC-1	carcinoma (transitional_cell_carcinoma)	primary	Adherent	NA	NA	urinary_tract
+SRR8615336	UBLC1_URINARY_TRACT	U-BLC1	carcinoma (transitional_cell_carcinoma)	primary	Adherent	NA	NA	urinary_tract
+SRR8615337	UACC893_BREAST	UACC-893	carcinoma (ductal_carcinoma)	primary	Adherent Epithelial	NA	NA	breast
+SRR8615338	UACC812_BREAST	UACC-812	carcinoma (ductal_carcinoma)	primary	"mostly adherent epithelial, some clusters in suspension"	-5.03E-01	1.87E-09	breast
+SRR8615339	UACC62_SKIN	UACC-62	malignant_melanoma	primary		6.25E-01	3.52E-14	skin
+SRR8615340	UACC257_SKIN	UACC-257	malignant_melanoma	primary		3.74E-01	1.51E-05	skin
+SRR8615341	NCIH1048_LUNG	NCI-H1048	carcinoma (small_cell_carcinoma)	metastasis	Adherent epthelial	2.20E-01	2.14E-02	lung
+SRR8615343	NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NB-4	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M3)"	primary	"single cells in suspention, round or polymorphic cells, very few are giant cells"	2.94E-01	1.04E-03	haematopoietic_and_lymphoid_tissue
+SRR8615345	NAMALWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NAMALWA	lymphoid_neoplasm (Burkitt_lymphoma)	primary	Lymphoblast like; suspension	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615346	NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM-6	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	"single, small, round cells in suspention"	3.89E-01	5.97E-06	haematopoietic_and_lymphoid_tissue
+SRR8615349	KMS20_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-20	lymphoid_neoplasm (plasma_cell_myeloma)	primary	suspension	2.32E-01	1.39E-02	haematopoietic_and_lymphoid_tissue
+SRR8615350	KMS21BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-21BM	lymphoid_neoplasm (plasma_cell_myeloma)	primary	lymphocyte-like	2.03E-01	3.78E-02	haematopoietic_and_lymphoid_tissue
+SRR8615353	KMRC3_KIDNEY	KMRC-3	carcinoma (clear_cell_renal_cell_carcinoma)	primary	adherent; extremely slow grower	4.45E-01	1.54E-07	kidney
+SRR8615354	KMS11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-11	lymphoid_neoplasm (plasma_cell_myeloma)	primary	adherent	2.59E-01	4.99E-03	haematopoietic_and_lymphoid_tissue
+SRR8615355	KMRC20_KIDNEY	KMRC-20	carcinoma (renal_cell_carcinoma)	primary	ADHERENT	3.85E-01	7.75E-06	kidney
+SRR8615356	KMRC2_KIDNEY	KMRC-2	carcinoma (clear_cell_renal_cell_carcinoma)	primary		5.36E-01	1.30E-10	kidney
+SRR8615357	KELLY_AUTONOMIC_GANGLIA	KELLY	neuroblastoma	primary		5.21E-01	4.38E-10	autonomic_ganglia
+SRR8615358	KE97_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KE-97	lymphoid_neoplasm (plasma_cell_myeloma)	primary	Adherent	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615359	PATU8988T_PANCREAS	PA-TU-8988T	carcinoma (ductal_carcinoma)	metastasis		NA	NA	pancreas
+SRR8615362	KATOIII_STOMACH	KATO III	carcinoma (adenocarcinoma)	metastasis	Mixed adherent and suspension (spherical)	-6.56E-01	1.44E-15	stomach
+SRR8615363	KASUMI6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Kasumi-6	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M2)"	primary	suspension;dt=55hrs	2.24E-01	1.89E-02	haematopoietic_and_lymphoid_tissue
+SRR8615366	KE39_STOMACH	KE-39	carcinoma	metastasis	Adherent	-5.85E-01	1.63E-12	stomach
+SRR8615367	KE37_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KE-37	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary		2.31E-01	1.44E-02	haematopoietic_and_lymphoid_tissue
+SRR8615368	SUDHL5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-5	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	primary	Supsension	1.87E-01	6.23E-02	haematopoietic_and_lymphoid_tissue
+SRR8615369	SUDHL6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-6	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	SUSPENSION	2.07E-01	3.38E-02	haematopoietic_and_lymphoid_tissue
+SRR8615371	PANC0813_PANCREAS	Panc 08.13	carcinoma (ductal_carcinoma)	primary		-4.63E-01	4.01E-08	pancreas
+SRR8615373	ST486_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ST486	lymphoid_neoplasm (Burkitt_lymphoma)	metastasis		1.82E-01	7.24E-02	haematopoietic_and_lymphoid_tissue
+SRR8615375	SU8686_PANCREAS	SU.86.86	carcinoma (ductal_carcinoma)	primary		NA	NA	pancreas
+SRR8615376	SUDHL10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-10	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	round lymphoid cells growing singly or in clumps in suspention	1.46E-01	1.83E-01	haematopoietic_and_lymphoid_tissue
+SRR8615378	SUDHL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-4	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	SUSPENSION	2.02E-01	3.88E-02	haematopoietic_and_lymphoid_tissue
+SRR8615379	GSS_STOMACH	GSS	carcinoma (adenocarcinoma)	metastasis	other	NA	NA	stomach
+SRR8615381	GP2D_LARGE_INTESTINE	GP2d	carcinoma (adenocarcinoma)	primary	Epithelial adherent	-5.76E-01	3.85E-12	large_intestine
+SRR8615384	GI1_CENTRAL_NERVOUS_SYSTEM	GI-1	glioma (gliosarcoma)	primary	ADHERENT FIBROBLAST LIKE	7.78E-01	1.41E-21	central_nervous_system
+SRR8615388	H4_CENTRAL_NERVOUS_SYSTEM	H4	glioma	primary		7.11E-01	3.93E-18	central_nervous_system
+SRR8615390	TE8_OESOPHAGUS	TE-8	carcinoma (squamous_cell_carcinoma)	primary	epithelial-like	NA	NA	oesophagus
+SRR8615391	KYM1_SOFT_TISSUE	KYM-1	rhabdomyosarcoma	primary		4.89E-01	5.84E-09	soft_tissue
+SRR8615392	LS513_LARGE_INTESTINE	LS513	carcinoma (adenocarcinoma)	primary	NA	-7.35E-01	2.57E-19	large_intestine
+SRR8615393	LS411N_LARGE_INTESTINE	LS411N	carcinoma (adenocarcinoma)	primary	adherent epithelial	-4.86E-01	7.59E-09	large_intestine
+SRR8615394	LU99_LUNG	LU99	carcinoma (large_cell_carcinoma)	metastasis	Adherent	6.60E-01	1.01E-15	lung
+SRR8615395	LU65_LUNG	LU65	carcinoma (non_small_cell_carcinoma)	primary	Lymphocyte like with partially attached cells	1.42E-01	2.02E-01	lung
+SRR8615397	LP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LP-1	lymphoid_neoplasm (plasma_cell_myeloma)	primary	Supsension	3.14E-01	4.06E-04	haematopoietic_and_lymphoid_tissue
+SRR8615398	LS180_LARGE_INTESTINE	LS 180	carcinoma (adenocarcinoma)	primary	NA	-5.86E-01	1.50E-12	large_intestine
+SRR8615399	LS123_LARGE_INTESTINE	LS123	carcinoma (adenocarcinoma)	primary		NA	NA	large_intestine
+SRR8615402	LUDLU1_LUNG	LUDLU-1	carcinoma (squamous_cell_carcinoma)	primary	"epithelial, adherent"	-3.75E-01	1.43E-05	lung
+SRR8615405	ACHN_KIDNEY	ACHN	carcinoma (renal_cell_carcinoma)	metastasis	Adherent	4.96E-01	3.43E-09	kidney
+SRR8615407	ABC1_LUNG	ABC-1	carcinoma (non_small_cell_carcinoma)	primary	Adherent; 0.25% TRYPSIN	-2.79E-01	2.09E-03	lung
+SRR8615408	AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AMO-1	lymphoid_neoplasm (plasma_cell_myeloma)	primary	single suspension	1.89E-01	5.92E-02	haematopoietic_and_lymphoid_tissue
+SRR8615410	AM38_CENTRAL_NERVOUS_SYSTEM	AM-38	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	NA	7.02E-01	1.02E-17	central_nervous_system
+SRR8615412	ASPC1_PANCREAS	AsPC-1	carcinoma (ductal_carcinoma)	metastasis	Adherent	-2.85E-01	1.60E-03	pancreas
+SRR8615415	HS281T_FIBROBLAST	Hs 281.T	carcinoma	primary		NA	NA	breast
+SRR8615416	HS274T_FIBROBLAST	Hs 274.T	carcinoma	primary	Supsension	NA	NA	breast
+SRR8615419	HS600T_FIBROBLAST	Hs 600.T	malignant_melanoma	primary		NA	NA	skin
+SRR8615420	HS578T_BREAST	Hs 578T	carcinoma (ductal_carcinoma)	primary	Adherent	7.40E-01	1.41E-19	breast
+SRR8615426	CORL88_LUNG	COR-L88	carcinoma (small_cell_carcinoma)	primary		9.18E-02	5.12E-01	lung
+SRR8615428	CORL311_LUNG	COR-L311	carcinoma (small_cell_carcinoma)	primary	"Large irregular aggregates, difficult to count"	1.40E-01	2.10E-01	lung
+SRR8615429	CORL47_LUNG	COR-L47	carcinoma (small_cell_carcinoma)	primary	aggregates in suspension	1.28E-01	2.75E-01	lung
+SRR8615430	RVH421_SKIN	RVH-421	malignant_melanoma	metastasis	Adherent	6.39E-01	8.25E-15	skin
+SRR8615434	RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RS4;11	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	Suspension	2.30E-01	1.48E-02	haematopoietic_and_lymphoid_tissue
+SRR8615438	RMUGS_OVARY	RMUG-S	carcinoma (adenocarcinoma)	primary		-3.92E-01	5.10E-06	ovary
+SRR8615439	RMGI_OVARY	RMG-I	carcinoma (clear_cell_carcinoma)	primary		-2.38E-01	1.12E-02	ovary
+SRR8615440	NUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NU-DHL-1	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	"single, round to polymorph  in suspention"	1.91E-01	5.49E-02	haematopoietic_and_lymphoid_tissue
+SRR8615442	NMCG1_CENTRAL_NERVOUS_SYSTEM	NMC-G1	glioma	primary	Adherent	7.07E-01	5.76E-18	central_nervous_system
+SRR8615443	NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NOMO-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary		1.36E-01	2.30E-01	haematopoietic_and_lymphoid_tissue
+SRR8615446	NCO2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCO2	haematopoietic_neoplasm (chronic_myeloid_leukaemia)	primary		2.95E-01	1.00E-03	haematopoietic_and_lymphoid_tissue
+SRR8615447	NH6_AUTONOMIC_GANGLIA	NH-6	neuroblastoma	primary	fibroblast-like	7.33E-01	3.13E-19	autonomic_ganglia
+SRR8615448	SUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-1	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)	metastasis	"polymorphic cells growing in suspention, singly or in small clusters"	4.03E-01	2.54E-06	haematopoietic_and_lymphoid_tissue
+SRR8615450	NUGC3_STOMACH	NUGC-3	carcinoma	primary	Epithelial-like	-2.55E-01	5.74E-03	stomach
+SRR8615454	HCC515_LUNG	HCC515	NA	NA	NA	NA	NA	lung
+SRR8615457	HCC366_LUNG	HCC-366	carcinoma (mixed_adenosquamous_carcinoma)	primary	Adhrent cells growing as monolayers; dt=30-40hrs	4.86E-01	7.11E-09	lung
+SRR8615458	HCC38_BREAST	HCC38	carcinoma (ductal_carcinoma)	primary	"adherent, single cells and loosely attached clusters"	1.39E-01	2.18E-01	breast
+SRR8615459	SW620_LARGE_INTESTINE	SW620	carcinoma (adenocarcinoma)	metastasis		1.56E-01	1.43E-01	large_intestine
+SRR8615461	HCC827GR5_LUNG	HCC827 GR5	carcinoma (non_small_cell_carcinoma)	NA	NA	NA	NA	lung
+SRR8615462	NCIH747_LARGE_INTESTINE	NCI-H747	carcinoma (adenocarcinoma)	metastasis		-4.74E-01	1.76E-08	large_intestine
+SRR8615464	TE1_OESOPHAGUS	TE-1	carcinoma (squamous_cell_carcinoma)	primary	Epithelial like	1.98E-01	4.45E-02	oesophagus
+SRR8615465	NCIH727_LUNG	NCI-H727	carcinoid-endocrine_tumour	primary	adherent	-2.35E-01	1.27E-02	lung
+SRR8615467	TE6_OESOPHAGUS	TE-6	carcinoma (squamous_cell_carcinoma)	primary	epithelial-like	NA	NA	oesophagus
+SRR8615470	TE4_OESOPHAGUS	TE-4	carcinoma (squamous_cell_carcinoma)	primary	epithelial-like	NA	NA	oesophagus
+SRR8615473	SNU840_OVARY	SNU-840	carcinoma (Brenner_tumour)	primary	"ADHERENT, EPITHELIAL MONOLAYER"	1.64E-01	1.18E-01	ovary
+SRR8615474	SNU869_BILIARY_TRACT	SNU-869	carcinoma	primary	Epithelial adherent	NA	NA	biliary_tract
+SRR8615475	SNUC1_LARGE_INTESTINE	SNU-C1	carcinoma (adenocarcinoma)	metastasis		-7.70E-01	3.61E-21	large_intestine
+SRR8615476	SNUC2A_LARGE_INTESTINE	SNU-C2A	carcinoma (adenocarcinoma)	primary		-4.28E-01	5.00E-07	large_intestine
+SRR8615479	L1236_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-1236	lymphoid_neoplasm (Hodgkin_lymphoma)	primary	Mix	2.97E-01	9.26E-04	haematopoietic_and_lymphoid_tissue
+SRR8615480	L33_PANCREAS	L3.3	carcinoma	metastasis	Adherent	-2.34E-01	1.31E-02	pancreas
+SRR8615483	JHH1_LIVER	JHH-1	carcinoma (hepatocellular_carcinoma)	primary	Epithelial-like	-1.82E-01	7.24E-02	liver
+SRR8615484	JHESOAD1_OESOPHAGUS	JH-EsoAd1	carcinoma (barrett_associated_adenocarcinoma)	NA	NA	NA	NA	oesophagus
+SRR8615488	ISTMES1_PLEURA	IST-MES1	mesothelioma	primary		6.05E-01	2.57E-13	pleura
+SRR8615493	ISHIKAWAHERAKLIO02ER_ENDOMETRIUM	Ishikawa (Heraklio) 02 ER-	carcinoma (adenocarcinoma)	primary		1.95E-01	4.94E-02	endometrium
+SRR8615494	IPC298_SKIN	IPC-298	malignant_melanoma	primary	Adherent	5.30E-01	2.16E-10	skin
+SRR8615495	NCIN87_STOMACH	NCI-N87	carcinoma	metastasis	Epithelial adherent	-4.80E-01	1.12E-08	stomach
+SRR8615499	SKNEP1_BONE	SKNEP1	NA	NA	NA	NA	NA	bone
+SRR8615501	SKNBE2_AUTONOMIC_GANGLIA	SK-N-BE(2)	neuroblastoma	metastasis		5.88E-01	1.28E-12	autonomic_ganglia
+SRR8615503	SKMM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SK-MM-2	lymphoid_neoplasm (plasma_cell_myeloma)	primary	round single cells growing in suspention	1.55E-01	1.50E-01	haematopoietic_and_lymphoid_tissue
+SRR8615505	SKOV3_OVARY	SK-OV-3	carcinoma (adenocarcinoma)	metastasis		4.62E-01	4.54E-08	ovary
+SRR8615506	SKNSH_AUTONOMIC_GANGLIA	SK-N-SH	neuroblastoma	metastasis		7.57E-01	1.88E-20	autonomic_ganglia
+SRR8615508	CAOV4_OVARY	Caov-4	carcinoma (adenocarcinoma)	metastasis	Adherent	-1.85E-01	6.55E-02	ovary
+SRR8615511	KYSE450_OESOPHAGUS	KYSE-450	carcinoma (squamous_cell_carcinoma)	primary		8.42E-02	5.70E-01	oesophagus
+SRR8615513	OC314_OVARY	OC 314	carcinoma (serous_carcinoma)	metastasis	Epithelial-like grown in monolayer	3.37E-01	1.24E-04	ovary
+SRR8615514	OAW42_OVARY	OAW42	carcinoma	metastasis	Epithelial Adherent	2.05E-01	3.58E-02	ovary
+SRR8615515	MKN45_STOMACH	MKN-45	carcinoma (diffuse_adenocarcinoma)	metastasis		-4.36E-01	2.79E-07	stomach
+SRR8615516	MKN74_STOMACH	MKN74	carcinoma (tubular_adenocarcinoma)	metastasis	epithelial-like	-2.50E-01	7.04E-03	stomach
+SRR8615518	MKN1_STOMACH	MKN1	carcinoma (mixed_adenosquamous_carcinoma)	metastasis	epithelial-like	5.54E-01	2.59E-11	stomach
+SRR8615521	MHHES1_BONE	MHH-ES-1	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	metastasis	"adherent cells of various size, single or in small clusters, growing as monolayer"	5.76E-01	3.85E-12	bone
+SRR8615524	MHHCALL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHH-CALL-4	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	"single, round cells growing in suspention, partly in clusters"	2.03E-01	3.78E-02	haematopoietic_and_lymphoid_tissue
+SRR8615525	SNU1076_UPPER_AERODIGESTIVE_TRACT	SNU-1076	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	-3.68E-01	2.14E-05	upper_aerodigestive_tract
+SRR8615526	CHP126_AUTONOMIC_GANGLIA	CHP-126	neuroblastoma	primary	spheroidal cells growing as clumps in suspension; grows as semi-adherent monolayer on surfaces coated with poly-L-lysine	5.18E-01	5.80E-10	autonomic_ganglia
+SRR8615528	CAL851_BREAST	CAL-85-1	carcinoma	primary		-2.54E-01	5.94E-03	breast
+SRR8615529	NCIH292_LUNG	NCI-H292	carcinoma (mucoepidermoid_carcinoma)	metastasis		NA	NA	lung
+SRR8615532	CAMA1_BREAST	CAMA-1	carcinoma	metastasis	Adherent epithelial	-4.09E-01	1.73E-06	breast
+SRR8615533	CALU1_LUNG	Calu-1	carcinoma (squamous_cell_carcinoma)	metastasis		5.31E-01	2.01E-10	lung
+SRR8615535	NCIH2405_LUNG	NCI-H2405	carcinoma (adenocarcinoma)	metastasis		4.72E-01	2.13E-08	lung
+SRR8615536	NCIH2444_LUNG	NCI-H2444	carcinoma (non_small_cell_carcinoma)	primary	Adherent	-9.44E-02	4.93E-01	lung
+SRR8615537	NCIH2347_LUNG	NCI-H2347	carcinoma (adenocarcinoma)	primary	"Mixed, majority adherent"	-2.38E-01	1.12E-02	lung
+SRR8615538	NCIH23_LUNG	NCI-H23	carcinoma (non_small_cell_carcinoma)	primary	adherent	5.74E-01	4.50E-12	lung
+SRR8615539	NCIH2887_LUNG	NCI-H2887	NA	NA	NA	NA	NA	lung
+SRR8615540	NCIH28_PLEURA	NCI-H28	mesothelioma	metastasis	adherent	4.42E-01	1.84E-07	pleura
+SRR8615541	NCIH2452_PLEURA	NCI-H2452	mesothelioma	metastasis	adherent	6.18E-01	6.88E-14	pleura
+SRR8615542	NCIH2882_LUNG	NCIH2882	NA	NA	NA	NA	NA	lung
+SRR8615543	OPM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OPM-1	NA	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615544	LN428_CENTRAL_NERVOUS_SYSTEM	LN-428	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615546	LN464_CENTRAL_NERVOUS_SYSTEM	LN-464	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615547	LNCAPCLONEFGC_PROSTATE	LNCaP clone FGC	carcinoma (adenocarcinoma)	metastasis		-2.96E-01	9.64E-04	prostate
+SRR8615549	LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Loucy	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary		3.23E-01	2.53E-04	haematopoietic_and_lymphoid_tissue
+SRR8615550	LOUNH91_LUNG	LOU-NH91	carcinoma (squamous_cell_carcinoma)	primary	ADHERENT OVOID TO EPITHELOID CELLS GROWING IN MONOLAYERS	4.93E-01	4.19E-09	lung
+SRR8615551	JHUEM7_ENDOMETRIUM	JHUEM-7	carcinoma (adenocarcinoma)	primary		NA	NA	endometrium
+SRR8615552	JHUEM3_ENDOMETRIUM	JHUEM-3	carcinoma (adenocarcinoma)	primary	epithelial-like	NA	NA	endometrium
+SRR8615554	JHUEM1_ENDOMETRIUM	JHUEM-1	carcinoma (adenocarcinoma)	primary	adherent with some suspension cells	-3.35E-01	1.36E-04	endometrium
+SRR8615557	JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JJN-3	lymphoid_neoplasm (plasma_cell_myeloma)	primary	single round to oval cells showing  a morphological range from mononuclear to occasionally multinucleated cells growing in suspention	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615558	JIMT1_BREAST	JIMT-1	carcinoma (ductal_carcinoma)	metastasis	epithelial-like cells growing in monolayers	1.34E-01	2.43E-01	breast
+SRR8615559	JMSU1_URINARY_TRACT	JMSU-1	carcinoma	primary	Adherent	6.51E-01	2.44E-15	urinary_tract
+SRR8615560	JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JM1	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	primary		2.79E-01	2.09E-03	haematopoietic_and_lymphoid_tissue
+SRR8615562	SW1710_URINARY_TRACT	SW-1710	carcinoma (transitional_cell_carcinoma)	primary	Adherent epithelial monolayer	5.16E-01	6.67E-10	urinary_tract
+SRR8615563	SW1417_LARGE_INTESTINE	SW1417	carcinoma (adenocarcinoma)	primary		-3.35E-01	1.36E-04	large_intestine
+SRR8615565	SNU1196_BILIARY_TRACT	SNU-1196	carcinoma	primary	epithelial; monolayer	NA	NA	biliary_tract
+SRR8615566	SNU1105_CENTRAL_NERVOUS_SYSTEM	SNU-1105	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	NA	8.04E-01	5.75E-23	central_nervous_system
+SRR8615567	SW1783_CENTRAL_NERVOUS_SYSTEM	SW 1783	"glioma (astrocytoma_Grade_III\, anaplastic)"	primary		7.41E-01	1.28E-19	central_nervous_system
+SRR8615569	CAL62_THYROID	CAL-62	carcinoma (anaplastic_carcinoma)	primary	epithelial-like cells growing in monolayers	5.82E-01	2.06E-12	thyroid
+SRR8615571	SNU1079_BILIARY_TRACT	SNU-1079	carcinoma	primary	NA	1.96E-01	4.81E-02	biliary_tract
+SRR8615572	SNU1077_ENDOMETRIUM	SNU-1077	carcinoma (carcinosarcoma-malignant_mesodermal_mixed_tumour)	primary	polypoid; monolayer	NA	NA	endometrium
+SRR8615573	SNU1033_LARGE_INTESTINE	SNU-1033	carcinoma	primary	epithelial; monolayer	NA	NA	large_intestine
+SRR8615574	SNGM_ENDOMETRIUM	SNG-M	carcinoma (adenocarcinoma)	metastasis	epithelial-like	9.95E-02	4.56E-01	endometrium
+SRR8615575	SNU1041_UPPER_AERODIGESTIVE_TRACT	SNU-1041	carcinoma	primary	epithelial; monolayer	NA	NA	upper_aerodigestive_tract
+SRR8615576	SNU1040_LARGE_INTESTINE	SNU-1040	carcinoma	primary	epithelial; monolayer	-4.18E-01	9.91E-07	large_intestine
+SRR8615577	MDAMB453_BREAST	MDA-MB-453	carcinoma	metastasis		-5.81E-01	2.41E-12	breast
+SRR8615579	MDAPCA2B_PROSTATE	MDA PCa 2b	carcinoma (adenocarcinoma)	metastasis	adherent epithelial	-3.95E-01	4.35E-06	prostate
+SRR8615580	MDST8_LARGE_INTESTINE	MDST8	carcinoma (adenocarcinoma)	primary	adherent	NA	NA	large_intestine
+SRR8615582	MDAMB415_BREAST	MDA-MB-415	carcinoma	metastasis	adherent epithelial	-4.46E-01	1.45E-07	breast
+SRR8615584	MDAMB436_BREAST	MDA-MB-436	carcinoma	metastasis	Adherent	6.49E-01	3.17E-15	breast
+SRR8615585	ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ME-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M4)"	primary	SINGLE IN SUSPENSION	2.93E-01	1.09E-03	haematopoietic_and_lymphoid_tissue
+SRR8615586	MEC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEC-1	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)	primary	"round  to polymorphic cells growing in suspention, singly or partly in small aggregates, a few cells  are slightly adherent"	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615587	S117_THYROID	S-117	sarcoma	primary	Epithelial monolayer	NA	NA	soft_tissue
+SRR8615588	HEC50B_ENDOMETRIUM	HEC-50B	carcinoma (adenocarcinoma)	primary	epithelial-like	5.09E-01	1.24E-09	endometrium
+SRR8615589	NCIH1435_LUNG	NCI-H1435	carcinoma (non_small_cell_carcinoma)	primary	"Adherent, single cells loosely attached"	-4.35E-01	3.14E-07	lung
+SRR8615590	RERFLCKJ_LUNG	RERF-LC-KJ	carcinoma (non_small_cell_carcinoma)	primary	adherent epithelial-like	-5.63E-01	1.22E-11	lung
+SRR8615591	RERFLCAI_LUNG	RERF-LC-AI	carcinoma (squamous_cell_carcinoma)	primary	EPITHELIAL-LIKE ADHERENT CELLS	6.63E-01	7.05E-16	lung
+SRR8615593	RCM1_LARGE_INTESTINE	RCM-1	carcinoma (adenocarcinoma)	primary	ADHERENT	-5.64E-01	1.13E-11	large_intestine
+SRR8615594	REC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	REC-1	lymphoid_neoplasm (mantle_cell_lymphoma)	primary	small round cells growing singly or in  clumps in suspention	3.14E-01	4.06E-04	haematopoietic_and_lymphoid_tissue
+SRR8615596	RERFGC1B_STOMACH	RERF-GC-1B	carcinoma	metastasis		-1.40E-01	2.10E-01	stomach
+SRR8615597	REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Reh	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	Lymphoblast suspension	3.38E-01	1.19E-04	haematopoietic_and_lymphoid_tissue
+SRR8615598	RERFLCAD2_LUNG	RERF-LC-Ad2	carcinoma (adenocarcinoma)	primary	adherent epithelial-like	-1.99E-01	4.33E-02	lung
+SRR8615599	RERFLCAD1_LUNG	RERF-LC-Ad1	carcinoma (adenocarcinoma)	primary	ADHERENT	-2.23E-01	1.95E-02	lung
+SRR8615600	NCIH1155_LUNG	NCI-H1155	carcinoma (large_cell_carcinoma)	metastasis	clusters in suspension	4.52E-01	8.94E-08	lung
+SRR8615601	NCIH2081_LUNG	NCI-H2081	carcinoma (small_cell_carcinoma)	metastasis		2.41E-01	9.80E-03	lung
+SRR8615602	NCIH1963_LUNG	NCI-H1963	carcinoma (small_cell_carcinoma)	primary	Suspension	2.76E-01	2.34E-03	lung
+SRR8615604	NCIH209_LUNG	NCI-H209	carcinoma (small_cell_carcinoma)	metastasis	Suspension	1.08E-01	3.97E-01	lung
+SRR8615606	NCIH2110_LUNG	NCI-H2110	carcinoma (non_small_cell_carcinoma)	metastasis		-3.40E-01	1.04E-04	lung
+SRR8615607	NCIH211_LUNG	NCI-H211	carcinoma (small_cell_carcinoma)	metastasis	Suspension	1.28E-01	2.70E-01	lung
+SRR8615612	NCIH1373_LUNG	NCI-H1373	carcinoma (adenocarcinoma)	primary	adherent	2.25E-01	1.78E-02	lung
+SRR8615615	NCIH1869_LUNG	NCI-H1869	carcinoma (squamous_cell_carcinoma)	metastasis	Adherent	NA	NA	lung
+SRR8615616	NCIH1385_LUNG	NCI-H1385	carcinoma (squamous_cell_carcinoma)	metastasis		NA	NA	lung
+SRR8615618	COLO800_SKIN	COLO-800	malignant_melanoma	primary	Epithelial monolayer. Some look like fibroblasts or neurons.	5.77E-01	3.56E-12	skin
+SRR8615619	SNUC4_LARGE_INTESTINE	SNU-C4	carcinoma (adenocarcinoma)	primary	epithelial; monolayer	NA	NA	large_intestine
+SRR8615620	TE159T_FIBROBLAST	TE 159.T	rhabdomyosarcoma	primary		NA	NA	soft_tissue
+SRR8615621	HEC1B_ENDOMETRIUM	HEC-1-B	carcinoma (adenocarcinoma)	primary		NA	NA	endometrium
+SRR8615625	HEC59_ENDOMETRIUM	HEC-59	carcinoma (adenocarcinoma)	primary	epithelial-like	1.83E-01	7.06E-02	endometrium
+SRR8615627	HEKTE_KIDNEY	HEK TE	other (immortalized_epithelial)	NA	NA	NA	NA	kidney
+SRR8615628	HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL 92.1.7	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M6)"	primary		4.06E-01	2.04E-06	haematopoietic_and_lymphoid_tissue
+SRR8615629	HELA_CERVIX	HELA	NA	NA	NA	NA	NA	cervix
+SRR8615630	HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M6)"	primary	"Round cells to occasionally polynucleated, single cells in suspension, few adherent"	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615631	DOHH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DOHH-2	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	cells grow as sinngle cells or in clumps in suspention	1.73E-01	9.20E-02	haematopoietic_and_lymphoid_tissue
+SRR8615633	ECC10_STOMACH	ECC10	carcinoma (small_cell_adenocarcinoma)	metastasis	other	NA	NA	stomach
+SRR8615634	EBC1_LUNG	EBC-1	carcinoma (squamous_cell_carcinoma)	primary	"ADHERENT, EPITHIAL-LIKE"	9.27E-02	5.06E-01	lung
+SRR8615635	EB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EB1	lymphoid_neoplasm (Burkitt_lymphoma)	primary	suspension	2.97E-01	9.26E-04	haematopoietic_and_lymphoid_tissue
+SRR8615636	DV90_LUNG	DV-90	carcinoma (adenocarcinoma)	metastasis	ADHERENT CELLS GROWING IN MONOLAYERS	-4.61E-01	4.83E-08	lung
+SRR8615639	COLO679_SKIN	COLO-679	malignant_melanoma	metastasis	Adherent fibroblastic but not limited to monolayer.	5.04E-01	1.75E-09	skin
+SRR8615640	PC14_LUNG	PC-14	carcinoma (non_small_cell_carcinoma)	primary	adherent	-2.68E-01	3.38E-03	lung
+SRR8615641	PC3_PROSTATE	PC-3	carcinoma (adenocarcinoma)	metastasis	ADHERENT EPITHELIAL;	2.25E-01	1.78E-02	prostate
+SRR8615642	786O_KIDNEY	786-O	carcinoma (clear_cell_renal_cell_carcinoma)	primary		5.72E-01	5.25E-12	kidney
+SRR8615644	8505C_THYROID	8505C	carcinoma (anaplastic_carcinoma)	primary	fibroblast-like	5.66E-01	8.99E-12	thyroid
+SRR8615645	8305C_THYROID	8305C	carcinoma (anaplastic_carcinoma)	primary	Adherent large spindle-shaped cells growing in monolayer	NA	NA	thyroid
+SRR8615646	A101D_SKIN	A101D	malignant_melanoma	primary		5.90E-01	1.01E-12	skin
+SRR8615647	8MGBA_CENTRAL_NERVOUS_SYSTEM	8-MG-BA	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Adherent	6.65E-01	5.90E-16	central_nervous_system
+SRR8615648	A172_CENTRAL_NERVOUS_SYSTEM	A172	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Adherent	7.02E-01	1.12E-17	central_nervous_system
+SRR8615649	A1207_CENTRAL_NERVOUS_SYSTEM	A1207	glioma	NA	NA	NA	NA	central_nervous_system
+SRR8615650	SNU475_LIVER	SNU-475	carcinoma (hepatocellular_carcinoma)	primary		6.34E-01	1.51E-14	liver
+SRR8615651	SNU478_BILIARY_TRACT	SNU-478	carcinoma	primary	epithelial; monolayer	-3.44E-01	8.22E-05	biliary_tract
+SRR8615652	SNU489_CENTRAL_NERVOUS_SYSTEM	SNU-489	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	spindle; monolayer	NA	NA	central_nervous_system
+SRR8615654	SNU423_LIVER	SNU-423	carcinoma (hepatocellular_carcinoma)	primary		7.02E-01	1.12E-17	liver
+SRR8615655	SNU449_LIVER	SNU-449	carcinoma (hepatocellular_carcinoma)	primary		5.43E-01	7.29E-11	liver
+SRR8615656	SNU466_CENTRAL_NERVOUS_SYSTEM	SNU-466	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	spendle; monolayer	6.21E-01	5.35E-14	central_nervous_system
+SRR8615657	SNU46_UPPER_AERODIGESTIVE_TRACT	SNU-46	carcinoma (squamous_cell_carcinoma)	primary	Epithelial monolayer	NA	NA	upper_aerodigestive_tract
+SRR8615658	SNU520_STOMACH	SNU-520	carcinoma	primary	floating aggregates; suspention	NA	NA	stomach
+SRR8615659	SNU5_STOMACH	SNU-5	carcinoma (undifferentiated_adenocarcinoma)	metastasis		1.48E-01	1.76E-01	stomach
+SRR8615660	HUNS1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HuNS1	lymphoid_neoplasm (plasma_cell_myeloma)	primary		2.01E-01	4.10E-02	haematopoietic_and_lymphoid_tissue
+SRR8615661	HUH7_LIVER	HuH-7	carcinoma (hepatocellular_carcinoma)	primary	NA	3.72E-01	1.67E-05	liver
+SRR8615662	HUH6_LIVER	HuH-6	other (hepatoblastoma)	primary	epithelial-like	NA	NA	liver
+SRR8615664	HUH1_LIVER	huH-1	carcinoma (hepatocellular_carcinoma)	primary	Adherent	2.15E-01	2.55E-02	liver
+SRR8615665	HUG1N_STOMACH	HuG1-N	carcinoma	primary		-5.88E-01	1.28E-12	stomach
+SRR8615666	HUCCT1_BILIARY_TRACT	HuCCT1	carcinoma	primary	NA	-1.26E-01	2.85E-01	biliary_tract
+SRR8615667	HT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HT	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	metastasis		1.80E-01	7.60E-02	haematopoietic_and_lymphoid_tissue
+SRR8615668	HUPT4_PANCREAS	HUP-T4	carcinoma	metastasis	mixed	-5.29E-01	2.32E-10	pancreas
+SRR8615669	HUPT3_PANCREAS	HUP-T3	carcinoma	metastasis	adherent; dt=40-50hrs	-1.77E-01	8.37E-02	pancreas
+SRR8615670	PECAPJ15_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ15	carcinoma (squamous_cell_carcinoma)	primary		-2.60E-01	4.66E-03	upper_aerodigestive_tract
+SRR8615671	SW780_URINARY_TRACT	SW 780	carcinoma (transitional_cell_carcinoma)	primary	Adherent	-5.06E-01	1.53E-09	urinary_tract
+SRR8615673	SIGM5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SIG-M5	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5a)"	primary	large round cells growing singly  in suspention	2.32E-01	1.39E-02	haematopoietic_and_lymphoid_tissue
+SRR8615674	SHP77_LUNG	SHP-77	carcinoma (small_cell_carcinoma)	primary	mixed	3.39E-01	1.08E-04	lung
+SRR8615675	SIMA_AUTONOMIC_GANGLIA	SIMA	neuroblastoma	primary	"cell shape is bipolar, cells growing as monolayer or forming foci"	5.58E-01	1.92E-11	autonomic_ganglia
+SRR8615676	SIHA_CERVIX	SIHA	NA	NA	NA	NA	NA	cervix
+SRR8615678	SJSA1_BONE	SJSA-1	osteosarcoma	primary	Fibroblast like adherent	7.28E-01	5.65E-19	bone
+SRR8615681	SKLMS1_SOFT_TISSUE	SK-LMS-1	sarcoma	primary		7.29E-01	5.12E-19	soft_tissue
+SRR8615682	SKHEP1_LIVER	SK-HEP-1	carcinoma (adenocarcinoma)	metastasis	adherent epithelial	6.73E-01	2.62E-16	liver
+SRR8615684	LAMA84_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LAMA-84	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	"single, round to polymorph cellsgrowing in suspention, some cells areloosely adherent"	2.76E-01	2.43E-03	haematopoietic_and_lymphoid_tissue
+SRR8615686	MUTZ5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MUTZ-5	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	SUSPENSION	2.06E-01	3.48E-02	haematopoietic_and_lymphoid_tissue
+SRR8615687	MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MV-4-11	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	suspension	2.28E-01	1.63E-02	haematopoietic_and_lymphoid_tissue
+SRR8615690	U251MG_CENTRAL_NERVOUS_SYSTEM	U-251 MG	glioma (astrocytoma)	primary		7.41E-01	1.16E-19	central_nervous_system
+SRR8615691	PATU8902_PANCREAS	PA-TU-8902	carcinoma (ductal_carcinoma)	primary	Epithelial Adherent cells in monolayer	-3.95E-01	4.12E-06	pancreas
+SRR8615692	U2OS_BONE	U-2 OS	osteosarcoma	primary	Adherent	5.58E-01	1.92E-11	bone
+SRR8615695	MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MONO-MAC-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	"single, round/multiformed cells in suspention"	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615696	MONOMAC6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MONO-MAC-6	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	"single, round/ multiformed cells or small clusters of cells in suspention, sometimes loosely adherent; 1-5% giant cells"	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615698	MORCPR_LUNG	MOR/CPR	carcinoma (adenocarcinoma)	primary	aggregates in suspension	-3.69E-01	2.04E-05	lung
+SRR8615699	MPP89_PLEURA	MPP 89	mesothelioma	metastasis		6.51E-01	2.66E-15	pleura
+SRR8615703	KNS42_CENTRAL_NERVOUS_SYSTEM	KNS-42	glioma	primary	Adherent	6.37E-01	1.07E-14	central_nervous_system
+SRR8615704	KARPAS422_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS-422	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	supension	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615707	KO52_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KO52	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M2)"	primary		2.40E-01	1.05E-02	haematopoietic_and_lymphoid_tissue
+SRR8615708	KNS81_CENTRAL_NERVOUS_SYSTEM	KNS-81	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Fibroblast-like	7.36E-01	2.10E-19	central_nervous_system
+SRR8615709	KNS62_LUNG	KNS-62	carcinoma (squamous_cell_carcinoma)	metastasis	adherent	-2.16E-01	2.47E-02	lung
+SRR8615711	JVM3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JVM-3	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)	primary	lymphoblastoid cells growing in clumps in suspention	2.53E-01	6.14E-03	haematopoietic_and_lymphoid_tissue
+SRR8615712	JURKAT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JURKAT	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	round cells growing singly or in clumps in suspention	3.07E-01	5.68E-04	haematopoietic_and_lymphoid_tissue
+SRR8615713	JURLMK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JURL-MK1	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	round cells growing singly or in small clusters in suspention	4.49E-01	1.14E-07	haematopoietic_and_lymphoid_tissue
+SRR8615714	KALS1_CENTRAL_NERVOUS_SYSTEM	KALS-1	glioma	primary	Biporar polyglonal	7.57E-01	1.88E-20	central_nervous_system
+SRR8615715	KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS-299	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)	primary	"Lymphoblastoid, suspension"	3.00E-01	7.88E-04	haematopoietic_and_lymphoid_tissue
+SRR8615718	RH18_SOFT_TISSUE	RH-18	rhabdomyosarcoma (alveolar)	primary	"large transparent epitheloid cells, partially with long extentions, growing as monolayers"	NA	NA	soft_tissue
+SRR8615719	LCLC97TM1_LUNG	LCLC-97TM1	carcinoma (large_cell_carcinoma)	primary	"adherent epitheloid cells densely packed in islets,growing as monolayers"	-1.97E-01	4.57E-02	lung
+SRR8615723	U87MG_CENTRAL_NERVOUS_SYSTEM	U-87 MG	glioma (astrocytoma)	primary	Adherent epithelial.	7.66E-01	6.06E-21	central_nervous_system
+SRR8615725	TTC642_SOFT_TISSUE	TTC642	NA	NA	NA	NA	NA	soft_tissue
+SRR8615726	TT_THYROID	TT	carcinoma (medullary_carcinoma)	primary		1.08E-01	3.97E-01	thyroid
+SRR8615728	TT2609C02_THYROID	TT2609-C02	carcinoma (follicular_carcinoma)	primary	small cells growing adherent but irregularly in monolayers	6.40E-01	7.57E-15	thyroid
+SRR8615730	TTC549_SOFT_TISSUE	TTC549	NA	NA	NA	NA	NA	soft_tissue
+SRR8615733	GCIY_STOMACH	GCIY	carcinoma (adenocarcinoma)	primary		3.04E-01	6.43E-04	stomach
+SRR8615734	OVMANA_OVARY	OVMANA	carcinoma (clear_cell_carcinoma)	primary		-2.48E-01	7.53E-03	ovary
+SRR8615735	FU97_STOMACH	FU97	carcinoma (diffuse_adenocarcinoma)	primary	ADHRENT EPITHELIAL; was clumpy	1.94E-01	5.07E-02	stomach
+SRR8615737	G292CLONEA141B1_BONE	"G-292\, clone A141B1"	osteosarcoma	primary	NA	8.44E-01	3.11E-25	bone
+SRR8615738	G361_SKIN	G-361	malignant_melanoma	primary	ADHERENT EPITHELIAL;	5.08E-01	1.33E-09	skin
+SRR8615739	G401_SOFT_TISSUE	G-401	rhabdoid_tumour	primary		5.39E-01	9.76E-11	soft_tissue
+SRR8615740	G402_SOFT_TISSUE	G-402	rhabdoid_tumour	primary		5.83E-01	1.91E-12	soft_tissue
+SRR8615743	RL952_ENDOMETRIUM	RL95-2	carcinoma (mixed_adenosquamous_carcinoma)	primary		-3.19E-01	3.15E-04	endometrium
+SRR8615745	SF295_CENTRAL_NERVOUS_SYSTEM	SF-295	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary		7.04E-01	8.44E-18	central_nervous_system
+SRR8615746	SF268_CENTRAL_NERVOUS_SYSTEM	SF268	glioma	primary	Mix	NA	NA	central_nervous_system
+SRR8615747	RL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RL	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	metastasis	suspension	1.56E-01	1.43E-01	haematopoietic_and_lymphoid_tissue
+SRR8615749	SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Set-2	haematopoietic_neoplasm (essential_thrombocythaemia)	primary	suspension	3.04E-01	6.43E-04	haematopoietic_and_lymphoid_tissue
+SRR8615750	SEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SEM	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	"SUSPENSION (round polygonal single, rather small cells)"	3.13E-01	4.24E-04	haematopoietic_and_lymphoid_tissue
+SRR8615751	SF172_CENTRAL_NERVOUS_SYSTEM	SF-172	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	NA	NA	NA	NA	central_nervous_system
+SRR8615752	SF126_CENTRAL_NERVOUS_SYSTEM	SF126	glioma (astrocytoma)	primary	fibroblast-like	7.75E-01	2.15E-21	central_nervous_system
+SRR8615756	MDAMB157_BREAST	MDA-MB-157	"carcinoma (ductal_carcinoma\, medullary)"	metastasis	Adherent	7.28E-01	5.65E-19	breast
+SRR8615758	MCF7_BREAST	MCF7	carcinoma	metastasis	ADHERENT CELLS	-4.37E-01	2.63E-07	breast
+SRR8615760	MC116_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MC116	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	metastasis	SUSPENSION LYMPHOBLASTS	2.57E-01	5.35E-03	haematopoietic_and_lymphoid_tissue
+SRR8615762	M07E_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	M-07e	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M7)"	primary	"single round cells in suspention, a few cells are lightly adherent"	2.93E-01	1.13E-03	haematopoietic_and_lymphoid_tissue
+SRR8615763	SW1353_BONE	SW 1353	chondrosarcoma	primary	Adherent Fibroblast	7.13E-01	2.95E-18	bone
+SRR8615764	NCIH1930_LUNG	NCI-H1930	carcinoma (small_cell_carcinoma)	metastasis	"Mixed line, majority in suspension"	3.28E-01	1.95E-04	lung
+SRR8615765	PANC0403_PANCREAS	Panc 04.03	carcinoma	primary	Adherent Epithelial	-3.47E-01	7.15E-05	pancreas
+SRR8615767	MDAMB231_BREAST	MDA-MB-231	carcinoma	metastasis	Adherent	5.16E-01	6.67E-10	breast
+SRR8615768	BFTC905_URINARY_TRACT	BFTC-905	"carcinoma (transitional_cell_carcinoma\, papillary_transitional_cell_carcinoma)"	primary	Adherent	-3.13E-01	4.24E-04	urinary_tract
+SRR8615770	BDCM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BDCM	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary		2.17E-01	2.40E-02	haematopoietic_and_lymphoid_tissue
+SRR8615771	BEN_LUNG	BEN	carcinoma	metastasis	"Adherent, epitheloid cells growing in monolayers"	-2.81E-01	1.94E-03	lung
+SRR8615772	BCP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BCP-1	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	primary	Supsension	2.16E-01	2.47E-02	haematopoietic_and_lymphoid_tissue
+SRR8615773	BCPAP_THYROID	B-CPAP	carcinoma (papillary_carcinoma)	primary	Spindle- or round-shaped cells growing adherently as monolayer	5.65E-01	9.70E-12	thyroid
+SRR8615775	BC3C_URINARY_TRACT	BC-3C	carcinoma (transitional_cell_carcinoma)	primary	adherent monolayers	3.86E-01	7.36E-06	urinary_tract
+SRR8615778	HS695T_SKIN	Hs 695T	malignant_melanoma	metastasis	Adherent	6.14E-01	1.04E-13	skin
+SRR8615781	HS729_SOFT_TISSUE	Hs 729	rhabdomyosarcoma	primary		8.20E-01	7.19E-24	soft_tissue
+SRR8615784	HS683_CENTRAL_NERVOUS_SYSTEM	Hs 683	glioma	primary		7.81E-01	1.03E-21	central_nervous_system
+SRR8615786	COLO792_SKIN	COLO 792	malignant_melanoma	metastasis	Epithelial adherent	4.81E-01	1.05E-08	skin
+SRR8615787	COLO783_SKIN	COLO-783	malignant_melanoma	metastasis	"ADHERENT FIBROBLASTS, NOT LIMITED TO MONOLAYER GROWTH"	5.67E-01	8.33E-12	skin
+SRR8615789	COLO684_ENDOMETRIUM	COLO 684	carcinoma (adenocarcinoma)	primary		NA	NA	endometrium
+SRR8615790	HS737T_FIBROBLAST	Hs 737.T	giant_cell_tumour	primary	suspension	NA	NA	bone
+SRR8615791	HS739T_FIBROBLAST	Hs 739.T	carcinoma	primary		NA	NA	breast
+SRR8615792	COLO678_LARGE_INTESTINE	COLO-678	carcinoma (adenocarcinoma)	metastasis	round or spindle - shaped adherent cells growing as monolayer	-4.70E-01	2.42E-08	large_intestine
+SRR8615793	COLO668_LUNG	COLO 668	carcinoma (small_cell_carcinoma)	metastasis		NA	NA	lung
+SRR8615795	PATU8988S_PANCREAS	PA-TU-8988S	carcinoma (ductal_carcinoma)	metastasis	Adherent epitheloid cells in monolayer	-6.27E-01	2.97E-14	pancreas
+SRR8615796	NCIH2085_LUNG	NCI-H2085	carcinoma (adenocarcinoma)	primary		2.10E-01	3.02E-02	lung
+SRR8615801	RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RI-1	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	primary	large round cells growing in suspention	1.29E-01	2.66E-01	haematopoietic_and_lymphoid_tissue
+SRR8615803	RKO_LARGE_INTESTINE	RKO	carcinoma (adenocarcinoma)	primary	adherent epithelial	3.76E-01	1.36E-05	large_intestine
+SRR8615806	NCIH3255_LUNG	NCI-H3255	carcinoma (adenocarcinoma)	primary		NA	NA	lung
+SRR8615807	NCIH322_LUNG	NCI-H322	carcinoma (adenocarcinoma)	primary	Adherent	-3.61E-01	3.17E-05	lung
+SRR8615808	NCIH510_LUNG	NCI-H510	carcinoma (small_cell_carcinoma)	primary	mixed line	-9.35E-02	5.00E-01	lung
+SRR8615809	NCIH508_LARGE_INTESTINE	NCI-H508	carcinoma (adenocarcinoma)	metastasis		-6.96E-01	1.97E-17	large_intestine
+SRR8615810	NCIH460_LUNG	NCI-H460	carcinoma (large_cell_carcinoma)	metastasis	Adherent	5.46E-01	5.44E-11	lung
+SRR8615812	T47D_BREAST	T-47D	carcinoma (ductal_carcinoma)	metastasis	Adherent epithelial	-3.78E-01	1.17E-05	breast
+SRR8615813	NCIH2122_LUNG	NCI-H2122	carcinoma (adenocarcinoma)	metastasis	Suspension	-4.81E-01	1.05E-08	lung
+SRR8615817	HCC1187_BREAST	HCC1187	carcinoma (ductal_carcinoma)	primary	Epithelial; mixed adherent and suspension	-1.21E-01	3.15E-01	breast
+SRR8615818	HCC1171_LUNG	HCC-1171	carcinoma (non_small_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	lung
+SRR8615820	HARA_LUNG	HARA	carcinoma (squamous_cell_carcinoma)	metastasis	ADHERENT; fast grower	9.01E-02	5.25E-01	lung
+SRR8615822	HCC1395_BREAST	HCC1395	carcinoma (ductal_carcinoma)	primary	ADHERENT EPITHELIAL	5.68E-01	7.71E-12	breast
+SRR8615825	TCCPAN2_PANCREAS	TCC-PAN2	carcinoma	primary	adherent epithelial	-1.57E-01	1.40E-01	pancreas
+SRR8615826	TCCSUP_URINARY_TRACT	TCCSUP	carcinoma (transitional_cell_carcinoma)	primary		5.19E-01	5.41E-10	urinary_tract
+SRR8615827	TE10_OESOPHAGUS	TE-10	carcinoma (squamous_cell_carcinoma)	primary	epithelial-like	NA	NA	oesophagus
+SRR8615828	TE11_OESOPHAGUS	TE-11	carcinoma (squamous_cell_carcinoma)	primary		-2.31E-01	1.44E-02	oesophagus
+SRR8615829	T84_LARGE_INTESTINE	T84	carcinoma (adenocarcinoma)	metastasis		-6.28E-01	2.73E-14	large_intestine
+SRR8615833	TE125T_FIBROBLAST	TE 125.T	rhabdomyosarcoma	primary	Fibroblast Adherent	NA	NA	soft_tissue
+SRR8615834	TE14_OESOPHAGUS	TE-14	carcinoma (squamous_cell_carcinoma)	primary	epithelial-like	NA	NA	oesophagus
+SRR8615836	LN229_CENTRAL_NERVOUS_SYSTEM	LN-229	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary		6.85E-01	6.63E-17	central_nervous_system
+SRR8615838	LN18_CENTRAL_NERVOUS_SYSTEM	LN-18	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	ADHERENT	5.90E-01	1.01E-12	central_nervous_system
+SRR8615839	LMSU_STOMACH	LMSU	carcinoma (adenocarcinoma)	metastasis	epithelial-like	NA	NA	stomach
+SRR8615840	LK2_LUNG	LK-2	carcinoma (squamous_cell_carcinoma)	primary	EPITHELIAL-LIKE ADHERENT CELLS	1.09E-01	3.91E-01	lung
+SRR8615841	IM95_STOMACH	IM95	carcinoma (intestinal_adenocarcinoma)	primary	Adherent	-6.55E-01	1.72E-15	stomach
+SRR8615843	IGR39_SKIN	IGR-39	malignant_melanoma	primary	Adherent	6.35E-01	1.27E-14	skin
+SRR8615845	IGR1_SKIN	IGR-1	malignant_melanoma	metastasis	Epithelial adherent	5.43E-01	6.78E-11	skin
+SRR8615848	IALM_LUNG	IA-LM	carcinoma (large_cell_carcinoma)	metastasis	ADHERENT EPITHELIAL;	5.29E-01	2.32E-10	lung
+SRR8615849	HUT102_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HuT 102	lymphoid_neoplasm (mycosis_fungoides-Sezary_syndrome)	primary	suspension	3.55E-01	4.67E-05	haematopoietic_and_lymphoid_tissue
+SRR8615851	SLR26_KIDNEY	SLR 26	carcinoma (renal_cell_carcinoma)	primary	NA	NA	NA	kidney
+SRR8615855	T173_FIBROBLAST	T1-73	osteosarcoma	primary	adherent fibroblasts	NA	NA	bone
+SRR8615856	SW948_LARGE_INTESTINE	SW948	carcinoma (adenocarcinoma)	primary		-6.73E-01	2.39E-16	large_intestine
+SRR8615857	T3M10_LUNG	T3M-10	carcinoma (large_cell_carcinoma)	primary		NA	NA	lung
+SRR8615859	SKPNDW_BONE	SKPNDW	NA	NA	NA	NA	NA	bone
+SRR8615862	SLR20_KIDNEY	SLR 20	carcinoma (renal_cell_carcinoma)	primary	NA	NA	NA	kidney
+SRR8615863	SLR21_KIDNEY	SLR 21	carcinoma (renal_cell_carcinoma)	primary	NA	NA	NA	kidney
+SRR8615864	SLR23_KIDNEY	SLR 23	carcinoma (renal_cell_carcinoma)	primary	NA	NA	NA	kidney
+SRR8615865	SLR24_KIDNEY	SLR 24	carcinoma (renal_cell_carcinoma)	primary	NA	NA	NA	kidney
+SRR8615868	FTC238_THYROID	FTC-238	carcinoma (follicular_carcinoma)	metastasis	ADHERENT	NA	NA	thyroid
+SRR8615870	OVCAR4_OVARY	OVCAR-4	carcinoma	primary		1.88E-01	6.08E-02	ovary
+SRR8615872	LN382_CENTRAL_NERVOUS_SYSTEM	LN382	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615875	OUMS23_LARGE_INTESTINE	OUMS-23	carcinoma (adenocarcinoma)	primary	epithelial-like	-1.75E-01	8.77E-02	large_intestine
+SRR8615876	OV56_OVARY	OV56	carcinoma	primary	adherent epithelial	5.16E-01	6.67E-10	ovary
+SRR8615878	OSRC2_KIDNEY	OS-RC-2	carcinoma (renal_cell_carcinoma)	primary	epithelial-like	NA	NA	kidney
+SRR8615879	OVISE_OVARY	OVISE	carcinoma (clear_cell_carcinoma)	metastasis		-1.76E-01	8.57E-02	ovary
+SRR8615881	HS863T_FIBROBLAST	Hs 863.T	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	primary	Adherent	NA	NA	bone
+SRR8615882	HS852T_SKIN	Hs 852.T	malignant_melanoma	primary	ADHRENT EPITHELIAL	NA	NA	skin
+SRR8615883	HS888T_FIBROBLAST	Hs 888.T	osteosarcoma	metastasis		NA	NA	bone
+SRR8615886	HS895T_FIBROBLAST	Hs 895.T	malignant_melanoma	metastasis		NA	NA	skin
+SRR8615890	HS940T_FIBROBLAST	Hs 940.T	malignant_melanoma	primary		NA	NA	skin
+SRR8615891	HCC2157_BREAST	HCC2157	carcinoma (ductal_carcinoma)	primary		-2.82E-01	1.80E-03	breast
+SRR8615892	SW579_THYROID	SW579	carcinoma (anaplastic_carcinoma)	primary		7.81E-01	1.03E-21	thyroid
+SRR8615893	DMS79_LUNG	DMS 79	carcinoma (small_cell_carcinoma)	primary	Suspension; multicell aggregates	1.23E-01	2.99E-01	lung
+SRR8615895	TYKNU_OVARY	TYK-nu	carcinoma (undifferentiated_carcinoma)	primary		6.11E-01	1.45E-13	ovary
+SRR8615896	U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U266B1	lymphoid_neoplasm (plasma_cell_myeloma)	primary	Suspension Lymphoblast	2.14E-01	2.62E-02	haematopoietic_and_lymphoid_tissue
+SRR8615898	NCIH1299_LUNG	NCI-H1299	carcinoma (non_small_cell_carcinoma)	metastasis	Adherent	6.52E-01	2.23E-15	lung
+SRR8615901	NCIH1184_LUNG	NCI-H1184	carcinoma (small_cell_carcinoma)	metastasis	Mixed (lymphoblasts)	4.83E-01	9.23E-09	lung
+SRR8615902	KMRC1_KIDNEY	KMRC-1	carcinoma (clear_cell_renal_cell_carcinoma)	primary		6.50E-01	2.91E-15	kidney
+SRR8615903	KMM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMM-1	lymphoid_neoplasm (plasma_cell_myeloma)	primary	lymphocyte-like	3.32E-01	1.63E-04	haematopoietic_and_lymphoid_tissue
+SRR8615906	KM12_LARGE_INTESTINE	KM12	carcinoma (adenocarcinoma)	primary		-3.94E-01	4.58E-06	large_intestine
+SRR8615907	KLE_ENDOMETRIUM	KLE	carcinoma (adenocarcinoma)	primary		3.13E-01	4.24E-04	endometrium
+SRR8615908	KMH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KM-H2	lymphoid_neoplasm (Hodgkin_lymphoma)	metastasis	NA	3.60E-01	3.50E-05	haematopoietic_and_lymphoid_tissue
+SRR8615909	KMBC2_URINARY_TRACT	KMBC-2	carcinoma	primary	round cells with vacuolization	-5.51E-01	3.49E-11	urinary_tract
+SRR8615910	KG1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KG-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M6)"	primary	suspension	2.94E-01	1.04E-03	haematopoietic_and_lymphoid_tissue
+SRR8615912	KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Ki-JK	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)	primary	lymphoblast-like	3.10E-01	4.81E-04	haematopoietic_and_lymphoid_tissue
+SRR8615913	KHM1B_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KHM-1B	lymphoid_neoplasm (plasma_cell_myeloma)	primary	"SUSPENSION, LYMPHOCYTE-LIKE"	1.44E-01	1.94E-01	haematopoietic_and_lymphoid_tissue
+SRR8615918	JHH2_LIVER	JHH-2	carcinoma (hepatocellular_carcinoma)	metastasis	Adherent	4.75E-01	1.65E-08	liver
+SRR8615919	JHH4_LIVER	JHH-4	carcinoma (hepatocellular_carcinoma)	primary	Epithelial-like	4.39E-01	2.34E-07	liver
+SRR8615920	JHH5_LIVER	JHH-5	carcinoma (hepatocellular_carcinoma)	primary	Epithelial-like	-1.54E-01	1.53E-01	liver
+SRR8615921	JHH6_LIVER	JHH-6	carcinoma (hepatocellular_carcinoma)	primary	Adherent	NA	NA	liver
+SRR8615922	JHOS2_OVARY	JHOS-2	carcinoma (adenocarcinoma)	primary		-1.33E-01	2.48E-01	ovary
+SRR8615923	JHOS4_OVARY	JHOS-4	carcinoma (adenocarcinoma)	primary		-2.75E-01	2.52E-03	ovary
+SRR8615924	SW1116_LARGE_INTESTINE	SW1116	carcinoma (adenocarcinoma)	primary	Adherent	-6.01E-01	3.56E-13	large_intestine
+SRR8615925	SW1088_CENTRAL_NERVOUS_SYSTEM	SW 1088	glioma	primary		7.54E-01	2.55E-20	central_nervous_system
+SRR8615929	SUPB15_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-B15	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary		3.37E-01	1.24E-04	haematopoietic_and_lymphoid_tissue
+SRR8615930	SNU201_CENTRAL_NERVOUS_SYSTEM	SNU-201	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	spendle; monolayer	7.62E-01	1.02E-20	central_nervous_system
+SRR8615932	SNU182_LIVER	SNU-182	carcinoma (hepatocellular_carcinoma)	primary		6.12E-01	1.23E-13	liver
+SRR8615933	SNU1_STOMACH	SNU-1	carcinoma (undifferentiated_adenocarcinoma)	metastasis		3.42E-01	9.45E-05	stomach
+SRR8615934	SNU16_STOMACH	SNU-16	carcinoma (undifferentiated_adenocarcinoma)	metastasis		-6.15E-01	9.59E-14	stomach
+SRR8615936	SNU1214_UPPER_AERODIGESTIVE_TRACT	SNU-1214	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	upper_aerodigestive_tract
+SRR8615937	SNU1272_KIDNEY	SNU-1272	carcinoma (clear_cell_renal_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	kidney
+SRR8615938	SNU1197_LARGE_INTESTINE	SNU-1197	carcinoma	primary	epithelial; monolayer	NA	NA	large_intestine
+SRR8615939	SNU119_OVARY	SNU-119	carcinoma (adenocarcinoma)	primary	epithelial; monolayer	NA	NA	ovary
+SRR8615942	KMS28BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-28BM	lymphoid_neoplasm (plasma_cell_myeloma)	primary	suspension	2.76E-01	2.43E-03	haematopoietic_and_lymphoid_tissue
+SRR8615943	KYO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KYO-1	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	Round Cells or clumps in suspension	2.74E-01	2.62E-03	haematopoietic_and_lymphoid_tissue
+SRR8615944	NCIH1437_LUNG	NCI-H1437	carcinoma (adenocarcinoma)	metastasis	Adherent	-4.39E-01	2.34E-07	lung
+SRR8615945	NCIH1395_LUNG	NCI-H1395	carcinoma (adenocarcinoma)	primary	adherent	-3.73E-01	1.59E-05	lung
+SRR8615946	NCIH1436_LUNG	NCI-H1436	carcinoma (small_cell_carcinoma)	metastasis	suspension	NA	NA	lung
+SRR8615947	SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SU-DHL-8	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	round single cells growing in suspention	2.85E-01	1.60E-03	haematopoietic_and_lymphoid_tissue
+SRR8615948	COV318_OVARY	COV318	carcinoma	primary	Polyglonal and fusiform adherent	4.23E-01	6.66E-07	ovary
+SRR8615949	COV362_OVARY	COV362	carcinoma	primary	"adherent, polygonal & fusiform"	5.13E-01	8.80E-10	ovary
+SRR8615950	KP3_PANCREAS	KP-3	carcinoma (ductal_carcinoma)	metastasis	epithelial-like	-1.06E-01	4.08E-01	pancreas
+SRR8615951	KP2_PANCREAS	KP-2	carcinoma	primary		-3.93E-01	4.83E-06	pancreas
+SRR8615952	DB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DB	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	suspension	1.54E-01	1.53E-01	haematopoietic_and_lymphoid_tissue
+SRR8615953	DBTRG05MG_CENTRAL_NERVOUS_SYSTEM	DBTRG-05MG	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	ADHERENT FIBROBLAST	6.86E-01	6.04E-17	central_nervous_system
+SRR8615954	NCIH1648_LUNG	NCI-H1648	carcinoma (adenocarcinoma)	metastasis	Mix	-4.11E-01	1.55E-06	lung
+SRR8615955	COV644_OVARY	COV644	carcinoma	primary	Adherent polygonal and fusiform	-3.31E-01	1.70E-04	ovary
+SRR8615956	COV434_OVARY	COV434	sex_cord-stromal_tumour (granulosa_cell_tumour)	primary		5.55E-01	2.40E-11	ovary
+SRR8615958	CW2_LARGE_INTESTINE	CW-2	carcinoma	primary	epithelial-like	NA	NA	large_intestine
+SRR8615959	DANG_PANCREAS	DAN-G	carcinoma	primary	ADHERENT EPITHELOID CELLS GROWING IN MONOLAYERS	-1.43E-01	1.98E-01	pancreas
+SRR8615960	D341MED_CENTRAL_NERVOUS_SYSTEM	D341 Med	primitive_neuroectodermal_tumour-medulloblastoma	primary		4.30E-01	4.20E-07	central_nervous_system
+SRR8615961	DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Daudi	lymphoid_neoplasm (Burkitt_lymphoma)	primary		1.62E-01	1.23E-01	haematopoietic_and_lymphoid_tissue
+SRR8615962	DAOY_CENTRAL_NERVOUS_SYSTEM	Daoy	primitive_neuroectodermal_tumour-medulloblastoma	primary	adherent polygonal	6.87E-01	5.51E-17	central_nervous_system
+SRR8615963	CORL105_LUNG	COR-L105	carcinoma (adenocarcinoma)	primary		NA	NA	lung
+SRR8615964	RCC10RGB_KIDNEY	RCC10RGB	carcinoma (renal_cell_carcinoma)	primary	ADHERENT; EPITHELIAL-LIKE	NA	NA	kidney
+SRR8615965	RCHACV_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RCH-ACV	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	small round cells growing singly or in small clumps in suspention; accasional adherent cells present	3.91E-01	5.37E-06	haematopoietic_and_lymphoid_tissue
+SRR8615966	HS611T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Hs 611.T	lymphoid_neoplasm (Hodgkin_lymphoma)	primary		3.71E-01	1.84E-05	haematopoietic_and_lymphoid_tissue
+SRR8615967	PLB985_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PLB-985	haematopoietic_neoplasm (acute_myeloid_leukaemia)	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615968	PLCPRF5_LIVER	PLC/PRF/5	carcinoma (hepatocellular_carcinoma)	primary	Epithelial Adherent	3.25E-01	2.32E-04	liver
+SRR8615969	PK59_PANCREAS	PK-59	carcinoma	primary	Epithelial like	-2.77E-01	2.26E-03	pancreas
+SRR8615970	PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PL-21	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M3)"	primary	single cells in suspention; cells have a rather monoblastic morphology  without the typical APL granules	1.96E-01	4.69E-02	haematopoietic_and_lymphoid_tissue
+SRR8615971	QGP1_PANCREAS	QGP-1	carcinoma	primary	adherent epithelial	-2.10E-01	3.02E-02	pancreas
+SRR8615972	RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Raji	lymphoid_neoplasm (Burkitt_lymphoma)	primary		2.30E-01	1.48E-02	haematopoietic_and_lymphoid_tissue
+SRR8615973	PRECLH_PROSTATE	PrEC LH	other (immortalized_epithelial)	NA	NA	NA	NA	prostate
+SRR8615974	PSN1_PANCREAS	PSN1	carcinoma (ductal_carcinoma)	primary	adherent epithelial	4.32E-01	3.74E-07	pancreas
+SRR8615975	NCIH841_LUNG	NCI-H841	carcinoma (small_cell_carcinoma)	metastasis		6.54E-01	1.87E-15	lung
+SRR8615976	NCIH838_LUNG	NCI-H838	carcinoma (non_small_cell_carcinoma)	metastasis	Adherent	NA	NA	lung
+SRR8615978	NCIH854_LUNG	NCI-H854	carcinoma (adenocarcinoma)	primary	suspention	NA	NA	lung
+SRR8615981	NCIH82_LUNG	NCI-H82	carcinoma (small_cell_carcinoma)	metastasis	adherent; epithelial	4.50E-01	1.07E-07	lung
+SRR8615982	NCIH810_LUNG	NCI-H810	carcinoma (large_cell_carcinoma)	primary		1.05E-01	4.14E-01	lung
+SRR8615984	NCIH1703_LUNG	NCI-H1703	carcinoma (adenocarcinoma)	primary	Adherent	6.05E-01	2.37E-13	lung
+SRR8615985	NCIH1734_LUNG	NCI-H1734	carcinoma (adenocarcinoma)	primary	Adherent	2.59E-01	4.99E-03	lung
+SRR8615986	NCIH1755_LUNG	NCI-H1755	carcinoma (adenocarcinoma)	metastasis	Mixed adherent and suspension	5.48E-01	4.36E-11	lung
+SRR8615987	NCIH1650_LUNG	NCI-H1650	carcinoma (bronchioloalveolar_adenocarcinoma)	metastasis	adherent; epithelial	1.28E-01	2.75E-01	lung
+SRR8615988	NCIH1651_LUNG	NCI-H1651	carcinoma (adenocarcinoma)	primary	adherent	4.40E-01	2.20E-07	lung
+SRR8615989	NCIH1666_LUNG	NCI-H1666	carcinoma (bronchioloalveolar_adenocarcinoma)	metastasis	adherent	-3.10E-01	5.02E-04	lung
+SRR8615990	NCIH1693_LUNG	NCI-H1693	carcinoma (adenocarcinoma)	metastasis	Adherent	2.37E-01	1.15E-02	lung
+SRR8615991	COLO680N_OESOPHAGUS	COLO-680N	carcinoma (squamous_cell_carcinoma)	primary	"Adherent, epitheloid cells growing in monolayers"	-1.28E-01	2.70E-01	oesophagus
+SRR8615992	SNU685_ENDOMETRIUM	SNU-685	carcinoma (carcinosarcoma-malignant_mesodermal_mixed_tumour)	primary	polypoid; monolayer	NA	NA	endometrium
+SRR8615993	RERFLCMS_LUNG	RERF-LC-MS	carcinoma (non_small_cell_carcinoma)	primary	Adherent; dt=42.7 hrs	5.61E-01	1.42E-11	lung
+SRR8615994	HCC2450_LUNG	HCC2450	NA	NA	NA	NA	NA	lung
+SRR8615995	HCC2429_LUNG	HCC2429	NA	NA	NA	NA	NA	lung
+SRR8615996	HCC2935_LUNG	HCC2935	carcinoma (non_small_cell_carcinoma)	primary	Adherent epithelial	NA	NA	lung
+SRR8615997	HCC2814_LUNG	HCC-2814	carcinoma (squamous_cell_carcinoma)	NA	NA	NA	NA	lung
+SRR8615999	HCC2108_LUNG	HCC-2108	carcinoma (adenocarcinoma)	primary	Epithelial Monolayer	NA	NA	lung
+SRR8616000	HCC2279_LUNG	HCC-2279	carcinoma (adenocarcinoma)	primary	epithelial; monolayer	NA	NA	lung
+SRR8616001	HCC2218_BREAST	HCC2218	carcinoma (ductal_carcinoma)	primary	SUSPENSION	-5.88E-01	1.19E-12	breast
+SRR8616004	DMS273_LUNG	DMS 273	carcinoma (small_cell_carcinoma)	metastasis		5.60E-01	1.53E-11	lung
+SRR8616005	DMS454_LUNG	DMS 454	carcinoma (small_cell_carcinoma)	primary	Adherent	-1.75E-01	8.77E-02	lung
+SRR8616006	DEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DEL	lymphoid_neoplasm	metastasis	"Grows often in cluster in suspention, most cells are polygonal ( some cells are round)"	3.16E-01	3.58E-04	haematopoietic_and_lymphoid_tissue
+SRR8616007	DETROIT562_UPPER_AERODIGESTIVE_TRACT	Detroit 562	carcinoma	metastasis		-1.07E-01	4.02E-01	upper_aerodigestive_tract
+SRR8616008	DKMG_CENTRAL_NERVOUS_SYSTEM	DK-MG	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	"SPINDLE, FIBROBLAST-LIKE CELLS GROWING MOSTLY ADHERENT AS MONOLAYER"	8.01E-01	7.96E-23	central_nervous_system
+SRR8616010	T3M4_PANCREAS	T3M-4	carcinoma (ductal_carcinoma)	metastasis	Adherent	-4.32E-01	3.74E-07	pancreas
+SRR8616011	SUIT2_PANCREAS	SUIT-2	carcinoma (ductal_carcinoma)	metastasis	adherent epithelial-like	2.70E-01	3.03E-03	pancreas
+SRR8616012	A673_BONE	A-673	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	primary		5.43E-01	6.78E-11	bone
+SRR8616013	A704_KIDNEY	A-704	carcinoma (renal_cell_carcinoma)	primary		3.56E-01	4.24E-05	kidney
+SRR8616014	A427_LUNG	A427	NA	NA	NA	NA	NA	lung
+SRR8616015	A498_KIDNEY	A-498	carcinoma (renal_cell_carcinoma)	primary	adherent	4.96E-01	3.43E-09	kidney
+SRR8616017	A549_LUNG	A549	carcinoma (non_small_cell_carcinoma)	primary	adherent; epithelial; DT=22 hrs	4.21E-01	7.90E-07	lung
+SRR8616018	A253_SALIVARY_GLAND	A-253	carcinoma (mucoepidermoid_carcinoma)	primary	Adherent	2.47E-01	8.05E-03	salivary_gland
+SRR8616019	A2780_OVARY	A2780	carcinoma (adenocarcinoma)	primary	Monolayer and suspension	6.97E-01	1.80E-17	ovary
+SRR8616020	A375_SKIN	A-375	malignant_melanoma	primary	Adherent	6.41E-01	6.94E-15	skin
+SRR8616021	A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A3/KAW	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	primary	suspension; grows in aggregates	3.05E-01	6.17E-04	haematopoietic_and_lymphoid_tissue
+SRR8616022	SNU81_LARGE_INTESTINE	SNU-81	carcinoma	primary	epithelial; monolayer	NA	NA	large_intestine
+SRR8616023	SNU761_LIVER	SNU-761	carcinoma (hepatocellular_carcinoma)	primary	polygonal; monolayer	NA	NA	liver
+SRR8616024	SNU61_LARGE_INTESTINE	SNU-61	carcinoma	primary	epithelial; monolayer	NA	NA	large_intestine
+SRR8616025	SNU601_STOMACH	SNU-601	carcinoma	metastasis	epithelial; monolayer	NA	NA	stomach
+SRR8616026	SNU626_CENTRAL_NERVOUS_SYSTEM	SNU-626	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	spendle; monolayer	6.71E-01	3.14E-16	central_nervous_system
+SRR8616027	SNU620_STOMACH	SNU-620	carcinoma	metastasis	scatlered floating; suspention	-6.60E-01	1.01E-15	stomach
+SRR8616028	RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI 8226	lymphoid_neoplasm (plasma_cell_myeloma)	primary	"Lymphoblast, suspension"	1.24E-01	2.95E-01	haematopoietic_and_lymphoid_tissue
+SRR8616029	SNU668_STOMACH	SNU-668	carcinoma (signet_ring_adenocarcinoma)	metastasis	epithelial; monolayer	NA	NA	stomach
+SRR8616030	SNU738_CENTRAL_NERVOUS_SYSTEM	SNU-738	glioma (oligodendroglioma)	primary	spindle; monolayer	5.69E-01	7.14E-12	central_nervous_system
+SRR8616032	HT29_LARGE_INTESTINE	HT-29	carcinoma (adenocarcinoma)	primary		-6.65E-01	5.90E-16	large_intestine
+SRR8616033	HT55_LARGE_INTESTINE	HT55	carcinoma (adenocarcinoma)	primary		NA	NA	large_intestine
+SRR8616034	KYSE150_OESOPHAGUS	KYSE-150	carcinoma (squamous_cell_carcinoma)	primary	Epithelial adherent monolayer	-2.00E-01	4.21E-02	oesophagus
+SRR8616035	KYSE140_OESOPHAGUS	KYSE-140	carcinoma (squamous_cell_carcinoma)	primary	Adherent monolayer	1.80E-01	7.60E-02	oesophagus
+SRR8616036	KYSE270_OESOPHAGUS	KYSE-270	carcinoma (squamous_cell_carcinoma)	primary	Adherent	2.09E-01	3.11E-02	oesophagus
+SRR8616037	KYSE180_OESOPHAGUS	KYSE-180	carcinoma (squamous_cell_carcinoma)	primary	EPITHELOID CELLS GROWING AS ADHERENT MONOLAYER	8.67E-02	5.51E-01	oesophagus
+SRR8616038	KYSE410_OESOPHAGUS	KYSE-410	carcinoma (squamous_cell_carcinoma)	primary	Epithelial adherent monolayer	-2.35E-01	1.27E-02	oesophagus
+SRR8616039	KYSE30_OESOPHAGUS	KYSE-30	carcinoma (squamous_cell_carcinoma)	primary		-4.89E-01	5.84E-09	oesophagus
+SRR8616040	HSC2_UPPER_AERODIGESTIVE_TRACT	HSC-2	carcinoma (squamous_cell_carcinoma)	primary	Epithelial-like	-1.27E-01	2.80E-01	upper_aerodigestive_tract
+SRR8616042	HSC4_UPPER_AERODIGESTIVE_TRACT	HSC-4	carcinoma (squamous_cell_carcinoma)	primary	epithelial-like	-2.33E-01	1.35E-02	upper_aerodigestive_tract
+SRR8616043	HT1080_SOFT_TISSUE	HT-1080	fibrosarcoma	metastasis	Epithelial Adherent	6.76E-01	1.82E-16	soft_tissue
+SRR8616044	HT115_LARGE_INTESTINE	HT115	carcinoma	primary	Epithelial adherent	NA	NA	large_intestine
+SRR8616045	HT1197_URINARY_TRACT	HT-1197	carcinoma	primary		-1.88E-01	6.08E-02	urinary_tract
+SRR8616046	HT1376_URINARY_TRACT	HT-1376	carcinoma (transitional_cell_carcinoma)	primary	Epithelial adherent	-2.87E-01	1.43E-03	urinary_tract
+SRR8616047	HT144_SKIN	HT-144	malignant_melanoma	metastasis	Fibroblast like adherent	6.98E-01	1.64E-17	skin
+SRR8616049	SKMEL24_SKIN	SK-MEL-24	malignant_melanoma	metastasis	Adherent	6.59E-01	1.10E-15	skin
+SRR8616050	SKLU1_LUNG	SK-LU-1	carcinoma (adenocarcinoma)	primary	Adherent	5.81E-01	2.41E-12	lung
+SRR8616051	SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKM-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	suspension	3.53E-01	5.14E-05	haematopoietic_and_lymphoid_tissue
+SRR8616052	SKMEL31_SKIN	SK-MEL-31	malignant_melanoma	primary	adherent	5.74E-01	4.50E-12	skin
+SRR8616053	SKMEL3_SKIN	SK-MEL-3	malignant_melanoma	metastasis	Fibroblast like adherent	4.35E-01	3.14E-07	skin
+SRR8616054	SKMEL28_SKIN	SK-MEL-28	malignant_melanoma	primary		5.19E-01	5.41E-10	skin
+SRR8616055	SKMEL30_SKIN	SK-MEL-30	malignant_melanoma	metastasis	Adherent	5.51E-01	3.49E-11	skin
+SRR8616056	SKMEL5_SKIN	SK-MEL-5	malignant_melanoma	metastasis		4.74E-01	1.76E-08	skin
+SRR8616057	SKMES1_LUNG	SK-MES-1	carcinoma (squamous_cell_carcinoma)	metastasis		4.18E-01	9.91E-07	lung
+SRR8616058	SW403_LARGE_INTESTINE	SW403	carcinoma (adenocarcinoma)	primary		-7.39E-01	1.56E-19	large_intestine
+SRR8616059	SW480_LARGE_INTESTINE	SW480	carcinoma (adenocarcinoma)	primary	Epithelial adherent	2.26E-01	1.73E-02	large_intestine
+SRR8616060	MOLT16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-16	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	round to elongated single cells growing in suspention	2.71E-01	2.92E-03	haematopoietic_and_lymphoid_tissue
+SRR8616061	MOLT13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-13	"lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia\, L2)"	primary	Suspension; Extremely slow grower	2.98E-01	8.90E-04	haematopoietic_and_lymphoid_tissue
+SRR8616062	NCIH1623_LUNG	NCI-H1623	carcinoma (adenocarcinoma)	metastasis	"Adherent, single cells and clusters loosely attached"	-3.23E-01	2.53E-04	lung
+SRR8616063	MOLM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM-6	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	SUSPENSION	2.11E-01	2.94E-02	haematopoietic_and_lymphoid_tissue
+SRR8616064	MOLM16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM-16	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M0)"	primary	single or small clumps in suspension	3.21E-01	2.89E-04	haematopoietic_and_lymphoid_tissue
+SRR8616065	MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP-8	lymphoid_neoplasm (plasma_cell_myeloma)	primary	"single round cells in suspention, some cells loosely adherent"	2.84E-01	1.67E-03	haematopoietic_and_lymphoid_tissue
+SRR8616066	MOLP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP-2	lymphoid_neoplasm (plasma_cell_myeloma)	primary	round to polymorph cells growing singly or in small clumps	-1.39E-01	2.18E-01	haematopoietic_and_lymphoid_tissue
+SRR8616067	ML1_THYROID	ML-1	carcinoma (follicular_carcinoma)	primary	ADHERENT MONOLAYERS	5.67E-01	8.33E-12	thyroid
+SRR8616068	MKN7_STOMACH	MKN7	carcinoma (tubular_adenocarcinoma)	metastasis		-1.10E-01	3.85E-01	stomach
+SRR8616069	MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM-13	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5a)"	primary	suspension; dt=50hrs	2.15E-01	2.55E-02	haematopoietic_and_lymphoid_tissue
+SRR8616070	MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MM1-S	lymphoid_neoplasm (plasma_cell_myeloma)	primary	Mixed	1.74E-01	8.98E-02	haematopoietic_and_lymphoid_tissue
+SRR8616071	KPNSI9S_AUTONOMIC_GANGLIA	KP-N-SI9s	neuroblastoma	metastasis	NA	7.52E-01	3.46E-20	autonomic_ganglia
+SRR8616072	KPNYN_AUTONOMIC_GANGLIA	KP-N-YN	neuroblastoma	metastasis	adherent	5.47E-01	5.05E-11	autonomic_ganglia
+SRR8616074	KU1919_URINARY_TRACT	KU-19-19	carcinoma (transitional_cell_carcinoma)	primary	Adherent	2.13E-01	2.78E-02	urinary_tract
+SRR8616075	KP4_PANCREAS	KP4	carcinoma (ductal_carcinoma)	metastasis	adherent	5.62E-01	1.31E-11	pancreas
+SRR8616077	KPMRTRY_SOFT_TISSUE	KPMRTRY	NA	NA	NA	NA	NA	soft_tissue
+SRR8616079	CHAGOK1_LUNG	ChaGo-K-1	carcinoma	primary		-2.64E-01	3.90E-03	lung
+SRR8616080	KU812_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KU812	"haematopoietic_neoplasm (chronic_myeloid_leukaemia\, Ph_positive)"	primary		2.07E-01	3.29E-02	haematopoietic_and_lymphoid_tissue
+SRR8616081	KURAMOCHI_OVARY	KURAMOCHI	carcinoma (undifferentiated_carcinoma)	metastasis		4.32E-01	3.74E-07	ovary
+SRR8616082	CH157MN_CENTRAL_NERVOUS_SYSTEM	CH-157MN	meningioma	NA	NA	NA	NA	central_nervous_system
+SRR8616083	CHP212_AUTONOMIC_GANGLIA	CHP-212	neuroblastoma	primary		6.72E-01	2.87E-16	autonomic_ganglia
+SRR8616085	TOV112D_OVARY	TOV-112D	carcinoma (endometrioid_carcinoma)	primary	adherent;	NA	NA	ovary
+SRR8616086	TM87_SOFT_TISSUE	TM-87;TM87	NA	NA	NA	NA	NA	soft_tissue
+SRR8616087	TO175T_FIBROBLAST	TO 175.T	lymphoid_neoplasm (Hodgkin_lymphoma)	metastasis		NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8616088	TIG3TD_FIBROBLAST	TIG-3 TD	other (immortalized_embryonic_fibroblast)	NA	NA	NA	NA	lung
+SRR8616089	TM31_CENTRAL_NERVOUS_SYSTEM	TM-31	glioma (astrocytoma)	primary	fibroblast-like	NA	NA	central_nervous_system
+SRR8616090	SH4_SKIN	SH-4	malignant_melanoma	metastasis	mixture of spindle-shaped and epithelial-like cells	NA	NA	skin
+SRR8616091	THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	THP-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary		3.04E-01	6.70E-04	haematopoietic_and_lymphoid_tissue
+SRR8616092	TEN_ENDOMETRIUM	TEN	carcinoma (clear_cell_carcinoma)	primary		NA	NA	endometrium
+SRR8616093	TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TF-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M6)"	primary		3.27E-01	2.13E-04	haematopoietic_and_lymphoid_tissue
+SRR8616094	RKN_SOFT_TISSUE	RKN	leiomyosarcoma	primary	epithelial-like	NA	NA	soft_tissue
+SRR8616095	SCC9_UPPER_AERODIGESTIVE_TRACT	SCC-9	carcinoma (squamous_cell_carcinoma)	primary		1.26E-01	2.85E-01	upper_aerodigestive_tract
+SRR8616098	SCC4_UPPER_AERODIGESTIVE_TRACT	SCC-4	carcinoma (squamous_cell_carcinoma)	primary		1.72E-01	9.63E-02	upper_aerodigestive_tract
+SRR8616099	SCABER_URINARY_TRACT	SCaBER	carcinoma (transitional_cell_carcinoma)	primary	Adherent epithelial	1.31E-01	2.57E-01	urinary_tract
+SRR8616100	SCC15_UPPER_AERODIGESTIVE_TRACT	SCC-15	carcinoma (squamous_cell_carcinoma)	primary		2.04E-01	3.68E-02	upper_aerodigestive_tract
+SRR8616101	SAOS2_BONE	Saos-2	osteosarcoma	primary	Adherent epithelial	NA	NA	bone
+SRR8616102	SBC5_LUNG	SBC-5	carcinoma (small_cell_carcinoma)	primary	Adherent	5.26E-01	3.08E-10	lung
+SRR8616103	LC1F_LUNG	LC-1F	carcinoma (squamous_cell_carcinoma)	primary	Mixed cell line.	NA	NA	lung
+SRR8616104	SALE_LUNG	SALE	other (immortalized_epithelial)	NA	NA	NA	NA	lung
+SRR8616105	NCIH2342_LUNG	NCI-H2342	carcinoma (adenocarcinoma)	primary	mix	-4.15E-01	1.17E-06	lung
+SRR8616106	NCIH2291_LUNG	NCI-H2291	carcinoma (adenocarcinoma)	metastasis	"Adherent , small pools of cells with large extracel. Space"	-1.87E-01	6.23E-02	lung
+SRR8616107	NCIH2171_LUNG	NCI-H2171	carcinoma (small_cell_carcinoma)	metastasis	Suspension; floating clusters	2.40E-01	1.05E-02	lung
+SRR8616108	NCIH2170_LUNG	NCI-H2170	carcinoma (squamous_cell_carcinoma)	primary	MIXED	-5.04E-01	1.75E-09	lung
+SRR8616109	NCIH2196_LUNG	NCI-H2196	carcinoma (small_cell_carcinoma)	metastasis	Adherent	1.49E-01	1.73E-01	lung
+SRR8616110	NCIH2172_LUNG	NCI-H2172	carcinoma (non_small_cell_carcinoma)	primary	Adherent	5.30E-01	2.16E-10	lung
+SRR8616111	NCIH2228_LUNG	NCI-H2228	carcinoma (adenocarcinoma)	primary	AHDHERENT; `	3.57E-01	4.04E-05	lung
+SRR8616112	NCIH2227_LUNG	NCI-H2227	carcinoma (small_cell_carcinoma)	primary	mixed	4.68E-01	2.93E-08	lung
+SRR8616114	NCIH226_LUNG	NCI-H226	carcinoma (squamous_cell_carcinoma)	metastasis		5.54E-01	2.59E-11	lung
+SRR8616115	LCLC103H_LUNG	LCLC-103H	carcinoma (large_cell_carcinoma)	metastasis	"pleomorphic, gigantic, adherent cells growing as monolayer"	5.66E-01	8.99E-12	lung
+SRR8616116	BICR6_UPPER_AERODIGESTIVE_TRACT	BICR 6	carcinoma (squamous_cell_carcinoma)	primary	Adherent keratinocyte	NA	NA	upper_aerodigestive_tract
+SRR8616117	BICR56_UPPER_AERODIGESTIVE_TRACT	BICR 56	carcinoma (squamous_cell_carcinoma)	primary	adherent epithelial	NA	NA	upper_aerodigestive_tract
+SRR8616118	BL70_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BL-70	lymphoid_neoplasm (Burkitt_lymphoma)	primary		2.34E-01	1.31E-02	haematopoietic_and_lymphoid_tissue
+SRR8616119	BL41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BL-41	lymphoid_neoplasm (Burkitt_lymphoma)	primary	Adherent	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8616120	BICR18_UPPER_AERODIGESTIVE_TRACT	BICR 18	carcinoma (squamous_cell_carcinoma)	primary		NA	NA	upper_aerodigestive_tract
+SRR8616121	BICR16_UPPER_AERODIGESTIVE_TRACT	BICR 16	carcinoma (squamous_cell_carcinoma)	primary	ADHERENT	NA	NA	upper_aerodigestive_tract
+SRR8616122	BICR31_UPPER_AERODIGESTIVE_TRACT	BICR 31	carcinoma (squamous_cell_carcinoma)	primary	"adherent; epithelial, keratinocyte"	-7.14E-02	6.67E-01	upper_aerodigestive_tract
+SRR8616123	BICR22_UPPER_AERODIGESTIVE_TRACT	BICR 22	carcinoma (squamous_cell_carcinoma)	metastasis	"adherent; epithelial, keratinocyte"	NA	NA	upper_aerodigestive_tract
+SRR8616124	BT20_BREAST	BT-20	carcinoma (ductal_carcinoma)	primary		-3.92E-01	5.10E-06	breast
+SRR8616125	BT12_SOFT_TISSUE	BT-12	NA	NA	NA	NA	NA	soft_tissue
+SRR8616126	HMCB_SKIN	HMCB	malignant_melanoma	primary	Epithelial adherent	5.81E-01	2.41E-12	skin
+SRR8616127	HMC18_BREAST	HMC-1-8	carcinoma	metastasis	Adherent	NA	NA	breast
+SRR8616128	TE9_OESOPHAGUS	TE-9	carcinoma (squamous_cell_carcinoma)	primary	Adherent	-3.54E-01	4.90E-05	oesophagus
+SRR8616129	HEPG2_LIVER	Hep G2	carcinoma (hepatocellular_carcinoma)	primary	Epithelial adherent	1.96E-01	4.69E-02	liver
+SRR8616130	HEP3B217_LIVER	Hep 3B2.1-7	carcinoma (hepatocellular_carcinoma)	primary	adherent	1.62E-01	1.23E-01	liver
+SRR8616131	HGC27_STOMACH	HGC-27	carcinoma (undifferentiated_adenocarcinoma)	metastasis		6.37E-01	1.07E-14	stomach
+SRR8616132	HEYA8_OVARY	Hey-A8	carcinoma	metastasis		6.33E-01	1.64E-14	ovary
+SRR8616133	HL60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HL-60	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M2)"	primary	suspension; do not allow cell concentration to exceed 1e6cells/ml	1.86E-01	6.39E-02	haematopoietic_and_lymphoid_tissue
+SRR8616134	HH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HH	lymphoid_neoplasm (adult_T_cell_lymphoma-leukaemia)	primary		3.12E-01	4.42E-04	haematopoietic_and_lymphoid_tissue
+SRR8616135	HLF_LIVER	HLF	carcinoma (hepatocellular_carcinoma)	primary	ADHERENT	7.01E-01	1.23E-17	liver
+SRR8616136	HLFA_FIBROBLAST	HLF-a	carcinoma (squamous_cell_carcinoma)	primary	Adherent Fibroblast	NA	NA	lung
+SRR8616137	CI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CI-1	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	metastasis		2.75E-01	2.52E-03	haematopoietic_and_lymphoid_tissue
+SRR8616138	CJM_SKIN	CJM	malignant_melanoma	metastasis	epithelial-like	NA	NA	skin
+SRR8616139	CL11_LARGE_INTESTINE	CL-11	carcinoma (adenocarcinoma)	primary	adherent epitheloid cells growing in monolayers and forming islets	-1.02E-01	4.38E-01	large_intestine
+SRR8616140	CL14_LARGE_INTESTINE	CL-14	carcinoma	primary	strongly adherent epitheloid cells growing in monolayers and forming islets	NA	NA	large_intestine
+SRR8616141	CL34_LARGE_INTESTINE	CL-34	carcinoma (adenocarcinoma)	primary	epithelial-like cells growing as monolayer; cells do not grow to complete confluency	-6.75E-01	1.99E-16	large_intestine
+SRR8616142	CL40_LARGE_INTESTINE	CL-40	carcinoma	primary	adherent ephithelial-like cells growing as monolayers and in aggregates	NA	NA	large_intestine
+SRR8616143	CMK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMK	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M7)"	primary	"single, multiformed, large cells growing in suspension, sometimes loosely adherent (<3%); 2-3% giant, multinucleated cells"	2.74E-01	2.62E-03	haematopoietic_and_lymphoid_tissue
+SRR8616144	CMLT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CML-T1	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	"single, round cells insuspension"	2.81E-01	1.94E-03	haematopoietic_and_lymphoid_tissue
+SRR8616145	COLO201_LARGE_INTESTINE	COLO 201	carcinoma (adenocarcinoma)	metastasis	Suspension with some loosely attached cells	NA	NA	large_intestine
+SRR8616146	COLO320_LARGE_INTESTINE	COLO-320	carcinoma (adenocarcinoma)	primary	"undifferentiated, round cells in suspension and loosely adherent in  monolayers"	4.74E-01	1.88E-08	large_intestine
+SRR8616147	SKNDZ_AUTONOMIC_GANGLIA	SK-N-DZ	neuroblastoma	metastasis		5.35E-01	1.40E-10	autonomic_ganglia
+SRR8616148	P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P31/FUJ	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	lymphocyte-like	2.52E-01	6.58E-03	haematopoietic_and_lymphoid_tissue
+SRR8616149	P12ICHIKAWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P12-ICHIKAWA	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	"single, polymorph cells in suspention"	2.53E-01	6.36E-03	haematopoietic_and_lymphoid_tissue
+SRR8616150	PANC0203_PANCREAS	Panc 02.03	carcinoma	primary	adherent	-2.59E-01	4.82E-03	pancreas
+SRR8616151	P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P3HR-1	lymphoid_neoplasm (Burkitt_lymphoma)	metastasis		2.39E-01	1.08E-02	haematopoietic_and_lymphoid_tissue
+SRR8616153	NCIH716_LARGE_INTESTINE	NCI-H716	carcinoma (adenocarcinoma)	metastasis		3.87E-01	6.99E-06	large_intestine
+SRR8616154	OVTOKO_OVARY	OVTOKO	carcinoma (clear_cell_carcinoma)	metastasis	Adherent	4.43E-01	1.74E-07	ovary
+SRR8616155	OVSAHO_OVARY	OVSAHO	carcinoma (adenocarcinoma)	metastasis	Adherent / Mixed 0.05% TRYPSIN	2.43E-01	9.18E-03	ovary
+SRR8616156	NCIH650_LUNG	NCI-H650	carcinoma (bronchioloalveolar_adenocarcinoma)	metastasis	Mixed cells	6.96E-01	1.97E-17	lung
+SRR8616157	NCIH660_PROSTATE	NCI-H660	carcinoma (small_cell_carcinoma)	metastasis		-1.91E-01	5.49E-02	prostate
+SRR8616158	NCIH661_LUNG	NCI-H661	carcinoma (large_cell_carcinoma)	metastasis	adherent	6.82E-01	9.58E-17	lung
+SRR8616159	NCIH684_LIVER	NCI-H684	other (hepatoblastoma)	primary	adherent	NA	NA	liver
+SRR8616160	NCIH524_LUNG	NCI-H524	carcinoma (small_cell_carcinoma)	metastasis	Suspension	4.56E-01	7.00E-08	lung
+SRR8616161	NCIH526_LUNG	NCI-H526	carcinoma (small_cell_carcinoma)	metastasis	round clusters in suspension	-1.56E-01	1.47E-01	lung
+SRR8616162	NCIH596_LUNG	NCI-H596	carcinoma (mixed_adenosquamous_carcinoma)	primary	adherent	1.25E-01	2.90E-01	lung
+SRR8616163	NCIH647_LUNG	NCI-H647	carcinoma (mixed_adenosquamous_carcinoma)	metastasis	Adherent	4.46E-01	1.45E-07	lung
+SRR8616164	697_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	697	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	adherent	3.61E-01	3.33E-05	haematopoietic_and_lymphoid_tissue
+SRR8616165	647V_URINARY_TRACT	647-V	carcinoma (transitional_cell_carcinoma)	primary	Adherent	1.16E-01	3.41E-01	urinary_tract
+SRR8616166	253J_URINARY_TRACT	253J	carcinoma (transitional_cell_carcinoma)	primary	monolayer	NA	NA	urinary_tract
+SRR8616167	253JBV_URINARY_TRACT	253J-BV	carcinoma (transitional_cell_carcinoma)	primary	Adherent epithelial	NA	NA	urinary_tract
+SRR8616168	2313287_STOMACH	23132/87	carcinoma (adenocarcinoma)	primary	aderent epithelial cells growing as confluent monolayers	-6.91E-01	3.46E-17	stomach
+SRR8616169	22RV1_PROSTATE	22Rv1	carcinoma	primary	Adherent epithelial	-2.39E-01	1.08E-02	prostate
+SRR8616170	639V_URINARY_TRACT	639-V	carcinoma (transitional_cell_carcinoma)	primary	Adherent epithelial monolayer	NA	NA	urinary_tract
+SRR8616171	59M_OVARY	59M	carcinoma	metastasis		NA	NA	ovary
+SRR8616172	5637_URINARY_TRACT	5637	carcinoma	primary	adherent	2.01E-01	4.10E-02	urinary_tract
+SRR8616173	42MGBA_CENTRAL_NERVOUS_SYSTEM	42-MG-BA	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Adherent	7.93E-01	2.33E-22	central_nervous_system
+SRR8616174	HCC1954_BREAST	HCC1954	carcinoma (ductal_carcinoma)	primary	Adherent	-4.13E-01	1.31E-06	breast
+SRR8616175	HCC202_BREAST	HCC202	carcinoma (ductal_carcinoma)	primary	Adherent	-5.49E-01	4.05E-11	breast
+SRR8616176	HCC15_LUNG	HCC-15	carcinoma (squamous_cell_carcinoma)	primary	mixed; dt= 72-96 hrs	2.61E-01	4.50E-03	lung
+SRR8616177	HCC1806_BREAST	HCC1806	"carcinoma (ductal_carcinoma\, squamous_cell_carcinoma)"	primary		-2.98E-01	8.55E-04	breast
+SRR8616178	HCC1833_LUNG	HCC-1833	carcinoma (adenocarcinoma)	primary	epithelial; monolayer	NA	NA	lung
+SRR8616179	HCC1937_BREAST	HCC1937	carcinoma (ductal_carcinoma)	primary	adherent; line grows as large epithelial cells with tendency to float at high cell  densitites	-3.72E-01	1.67E-05	breast
+SRR8616180	HCC1500_BREAST	HCC1500	carcinoma (ductal_carcinoma)	primary	Epithelial adherent	-3.94E-01	4.58E-06	breast
+SRR8616181	HCC1569_BREAST	HCC1569	carcinoma (metaplastic_carcinoma)	primary	mixed	NA	NA	breast
+SRR8616182	HCC1588_LUNG	HCC-1588	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	lung
+SRR8616183	HCC1599_BREAST	HCC1599	carcinoma (ductal_carcinoma)	primary	"suspension, multicell aggregates"	-2.25E-01	1.78E-02	breast
+SRR8616184	SQ1_LUNG	Sq-1	carcinoma (squamous_cell_carcinoma)	primary		-2.59E-01	4.82E-03	lung
+SRR8616185	LOVO_LARGE_INTESTINE	LoVo	carcinoma (adenocarcinoma)	metastasis		-2.53E-01	6.14E-03	large_intestine
+SRR8616186	LOXIMVI_SKIN	LOX IMVI	malignant_melanoma	primary		7.17E-01	2.00E-18	skin
+SRR8616187	NCIH1563_LUNG	NCI-H1563	carcinoma (adenocarcinoma)	primary	adherent	5.05E-01	1.63E-09	lung
+SRR8616188	NCIH146_LUNG	NCI-H146	carcinoma (small_cell_carcinoma)	metastasis	Suspension; multicell aggregates	1.32E-01	2.52E-01	lung
+SRR8616189	NCIH1573_LUNG	NCI-H1573	carcinoma (adenocarcinoma)	metastasis	Adherent	-4.83E-01	9.23E-09	lung
+SRR8616190	NCIH1568_LUNG	NCI-H1568	carcinoma (non_small_cell_carcinoma)	metastasis	adherent	-3.14E-01	4.06E-04	lung
+SRR8616191	NCIH1618_LUNG	NCI-H1618	carcinoma (small_cell_carcinoma)	metastasis		1.13E-01	3.63E-01	lung
+SRR8616192	NCIH1581_LUNG	NCI-H1581	carcinoma (large_cell_carcinoma)	primary	Mixed	5.17E-01	6.22E-10	lung
+SRR8616193	CA46_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CA46	lymphoid_neoplasm (Burkitt_lymphoma)	metastasis	Adherent	1.79E-01	7.78E-02	haematopoietic_and_lymphoid_tissue
+SRR8616194	CACO2_LARGE_INTESTINE	CACO2;CACO2;CaCo-2	NA	NA	NA	NA	NA	large_intestine
+SRR8616195	BT474_BREAST	BT-474	carcinoma (ductal_carcinoma)	primary		-5.48E-01	4.69E-11	breast
+SRR8616196	BT483_BREAST	BT-483	"carcinoma (ductal_carcinoma\, medullary)"	primary	Adherent epithelial	-5.37E-01	1.13E-10	breast
+SRR8616197	BT549_BREAST	BT-549	"carcinoma (ductal_carcinoma\, papillary)"	primary	Adherent	7.03E-01	9.27E-18	breast
+SRR8616198	BV173_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BV-173	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	"SUSPENSION ( small round cells, slow to grow)"	2.79E-01	2.09E-03	haematopoietic_and_lymphoid_tissue
+SRR8616199	BXPC3_PANCREAS	BxPC-3	carcinoma (ductal_carcinoma)	primary		-3.40E-01	1.04E-04	pancreas
+SRR8616200	C2BBE1_LARGE_INTESTINE	C2BBe1	carcinoma (adenocarcinoma)	primary	Adherent	-2.69E-01	3.26E-03	large_intestine
+SRR8616201	C32_SKIN	C32	malignant_melanoma	primary	ADHERENT	5.53E-01	3.01E-11	skin
+SRR8616202	C8166_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	C8166	NA	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8616203	HS172T_FIBROBLAST	Hs 172.T	carcinoma	primary	Adherent	NA	NA	urinary_tract
+SRR8616204	HS229T_FIBROBLAST	Hs 229.T	carcinoma (adenocarcinoma)	primary	Adherent	NA	NA	lung
+SRR8616205	HOP62_LUNG	HOP-62	carcinoma (adenocarcinoma)	primary	Adherent	NA	NA	lung
+SRR8616206	HOP92_LUNG	HOP-92	carcinoma (large_cell_carcinoma)	primary	Mix	NA	NA	lung
+SRR8616207	HMEL_BREAST	HMEL	other (immortalized_epithelial)	NA	NA	NA	NA	breast
+SRR8616208	HNT34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HNT-34	NA	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8616209	HPAFII_PANCREAS	HPAF-II	carcinoma (ductal_carcinoma)	metastasis	ADHERENT EPITHELIAL;	-5.56E-01	2.23E-11	pancreas
+SRR8616210	HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HPB-ALL	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	rond or polymorph cells growing singly  or in clusters in suspentipn	3.72E-01	1.67E-05	haematopoietic_and_lymphoid_tissue
+SRR8616211	HOS_BONE	HOS	osteosarcoma	primary		7.11E-01	3.93E-18	bone
+SRR8616212	HPAC_PANCREAS	HPAC	carcinoma (ductal_carcinoma)	primary	ADHERENT EPITHELIAL;	NA	NA	pancreas
+SRR8616213	EWS502_BONE	EWS502	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA	NA	NA	NA	bone
+SRR8616214	EW8_BONE	EW8	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	NA	NA	NA	NA	bone
+SRR8616215	FADU_UPPER_AERODIGESTIVE_TRACT	FaDu	carcinoma (squamous_cell_carcinoma)	primary		-2.76E-01	2.43E-03	upper_aerodigestive_tract
+SRR8616216	F36P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	F-36P	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M6)"	metastasis	polymorph cells growing as adherent cells and singly in suspention	2.90E-01	1.27E-03	haematopoietic_and_lymphoid_tissue
+SRR8616217	EPLC272H_LUNG	EPLC-272H	carcinoma (squamous_cell_carcinoma)	primary		2.16E-01	2.47E-02	lung
+SRR8616218	EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EOL-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	"(relatively small) round cells growing in suspention, singly or in small clusters"	2.64E-01	3.90E-03	haematopoietic_and_lymphoid_tissue
+SRR8616219	ESS1_ENDOMETRIUM	ESS-1	carcinoma (carcinosarcoma-malignant_mesodermal_mixed_tumour)	primary		6.54E-01	1.87E-15	endometrium
+SRR8616220	ES2_OVARY	ES-2	carcinoma (clear_cell_carcinoma)	primary	ADHERENT FIBROBLASTS	6.96E-01	2.17E-17	ovary
+SRR8618300	VMCUB1_URINARY_TRACT	VM-CUB1	carcinoma (transitional_cell_carcinoma)	primary	Adherent	-2.84E-01	1.67E-03	urinary_tract
+SRR8618301	ZR751_BREAST	ZR-75-1	carcinoma (ductal_carcinoma)	metastasis	adherent epithelial	-5.57E-01	2.07E-11	breast
+SRR8618302	WM983B_SKIN	WM-983B	malignant_melanoma	primary		5.50E-01	3.76E-11	skin
+SRR8618303	WM88_SKIN	WM-88	malignant_melanoma	primary		6.64E-01	6.45E-16	skin
+SRR8618304	ZR7530_BREAST	ZR-75-30	carcinoma (ductal_carcinoma)	metastasis		-4.83E-01	9.23E-09	breast
+SRR8618305	VCAP_PROSTATE	VCaP	carcinoma (adenocarcinoma)	metastasis	Adherent	-3.04E-01	6.43E-04	prostate
+SRR8618306	YAPC_PANCREAS	YAPC	carcinoma	metastasis	Adherent	-3.44E-01	8.22E-05	pancreas
+SRR8618307	WSUDLCL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	WSU-DLCL2	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	supension	2.21E-01	2.07E-02	haematopoietic_and_lymphoid_tissue
+SRR8618308	YD15_SALIVARY_GLAND	YD-15	carcinoma (mucoepidermoid_carcinoma)	primary	epithelial; monolayer	-3.27E-01	2.13E-04	salivary_gland
+SRR8618309	YD10B_UPPER_AERODIGESTIVE_TRACT	YD-10B	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	upper_aerodigestive_tract
+SRR8618310	YD8_UPPER_AERODIGESTIVE_TRACT	YD-8	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	upper_aerodigestive_tract
+SRR8618311	YD38_UPPER_AERODIGESTIVE_TRACT	YD-38	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	upper_aerodigestive_tract
+SRR8618312	YKG1_CENTRAL_NERVOUS_SYSTEM	YKG1	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary		7.37E-01	1.90E-19	central_nervous_system
+SRR8618313	YH13_CENTRAL_NERVOUS_SYSTEM	YH-13	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Adherent	8.02E-01	7.14E-23	central_nervous_system
+SRR8618314	WM2664_SKIN	WM-266-4	malignant_melanoma	metastasis	Adherent	6.26E-01	3.23E-14	skin
+SRR8618315	VMRCRCZ_KIDNEY	VMRC-RCZ	carcinoma (renal_cell_carcinoma)	primary	Adherent	4.95E-01	3.67E-09	kidney
+SRR8618316	WM1799_SKIN	WM1799	malignant_melanoma	primary	Adherent	NA	NA	skin
+SRR8618317	VMRCRCW_KIDNEY	VMRC-RCW	carcinoma	primary	adherent	4.24E-01	6.29E-07	kidney
+SRR8618318	WM115_SKIN	WM-115	malignant_melanoma	primary		6.79E-01	1.26E-16	skin
+SRR8618319	WM793_SKIN	WM-793	malignant_melanoma	primary	Adherent	6.89E-01	4.57E-17	skin
+SRR8615280	HDLM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HDLM-2	lymphoid_neoplasm (Hodgkin_lymphoma)	metastasis	SUSPENSION	2.41E-01	1.01E-02	haematopoietic_and_lymphoid_tissue
+SRR8615292	EFM192A_BREAST	EFM-192A	carcinoma	metastasis		-4.78E-01	1.36E-08	breast
+SRR8615293	EM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EM-2	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	"single, round to oval cells in suspention"	1.67E-01	1.10E-01	haematopoietic_and_lymphoid_tissue
+SRR8615300	DU145_PROSTATE	DU 145	carcinoma	metastasis	ADHERENT EPITHELIAL;	3.15E-01	3.73E-04	prostate
+SRR8615303	PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PF-382	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	metastasis	"single, round to oval cells in suspention"	3.07E-01	5.68E-04	haematopoietic_and_lymphoid_tissue
+SRR8615305	PECAPJ49_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ49	carcinoma (squamous_cell_carcinoma)	primary	adherent	1.95E-01	4.94E-02	upper_aerodigestive_tract
+SRR8615314	NALM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM-1	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	"small, single, round cells in suspention"	2.87E-01	1.48E-03	haematopoietic_and_lymphoid_tissue
+SRR8615328	HS840T_FIBROBLAST	Hs 840.T	other (papilloma)	benign_neoplasia		NA	NA	upper_aerodigestive_tract
+SRR8615331	NCIH1092_LUNG	NCI-H1092	carcinoma (small_cell_carcinoma)	metastasis	Suspension	2.60E-01	4.66E-03	lung
+SRR8615332	UOK101_KIDNEY	UOK101	carcinoma (clear_cell_renal_cell_carcinoma)	NA	NA	NA	NA	kidney
+SRR8615334	UMUC3_URINARY_TRACT	UM-UC-3	carcinoma (transitional_cell_carcinoma)	primary	Adherent epithelial	7.34E-01	2.83E-19	urinary_tract
+SRR8615344	NB1_AUTONOMIC_GANGLIA	NB-1	neuroblastoma	metastasis	Adherent	5.95E-01	6.27E-13	autonomic_ganglia
+SRR8615386	GCT_SOFT_TISSUE	GCT	malignant_fibrous_histiocytoma-pleomorphic_sarcoma	metastasis		7.23E-01	1.02E-18	soft_tissue
+SRR8615389	GSU_STOMACH	GSU	carcinoma (adenocarcinoma)	metastasis	other	NA	NA	stomach
+SRR8615400	LN340_CENTRAL_NERVOUS_SYSTEM	LN-340	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615401	LXF289_LUNG	LXF-289	carcinoma (adenocarcinoma)	primary	adherent epithelial-like growing as monolayer	6.09E-01	1.71E-13	lung
+SRR8615414	HS294T_SKIN	Hs 294T	malignant_melanoma	metastasis	Adherent	5.83E-01	1.91E-12	skin
+SRR8615417	HS255T_FIBROBLAST	Hs 255.T	carcinoma (adenocarcinoma)	primary		NA	NA	large_intestine
+SRR8615418	HS606T_FIBROBLAST	Hs 606.T	carcinoma	primary	adherent fibroblast	NA	NA	breast
+SRR8615424	HS616T_FIBROBLAST	Hs 616.T	lymphoid_neoplasm (Hodgkin_lymphoma)	primary	Adherent	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615425	CORL23_LUNG	COR-L23	carcinoma (large_cell_carcinoma)	metastasis	adherent	-1.71E-01	9.86E-02	lung
+SRR8615436	PANC0327_PANCREAS	Panc 03.27	carcinoma (ductal_carcinoma)	primary	ADHERENT EPITHELIAL;	-1.51E-01	1.66E-01	pancreas
+SRR8615455	HCC4006_LUNG	HCC4006	carcinoma (adenocarcinoma)	metastasis	Adherent epithelial	-2.36E-01	1.23E-02	lung
+SRR8615463	TE441T_SOFT_TISSUE	TE 441.T	rhabdomyosarcoma	primary	Mixed	5.62E-01	1.31E-11	soft_tissue
+SRR8615468	TE617T_SOFT_TISSUE	TE 617.T	rhabdomyosarcoma	primary		6.33E-01	1.64E-14	soft_tissue
+SRR8615472	SNU886_LIVER	SNU-886	carcinoma (hepatocellular_carcinoma)	primary	epithelial; monolayer	NA	NA	liver
+SRR8615478	SNU8_OVARY	SNU-8	carcinoma (adenocarcinoma)	primary	"ADHERENT, EPITHELIAL MONOLAYER"	NA	NA	ovary
+SRR8615496	SKNO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKNO-1	haematopoietic_neoplasm (acute_myeloid_leukaemia)	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615497	SKNMC_BONE	SK-N-MC	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	metastasis	Adherent epithelial.	5.25E-01	3.31E-10	bone
+SRR8615509	OCILY19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-LY-19	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	primary	SUSPENSION	3.15E-01	3.73E-04	haematopoietic_and_lymphoid_tissue
+SRR8615510	OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-AML5	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M4)"	primary	round cells growing singly or in clumps in suspention	2.69E-01	3.26E-03	haematopoietic_and_lymphoid_tissue
+SRR8615512	OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-AML2	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M4)"	primary	"single, round to oval cells  in suspention"	2.72E-01	2.82E-03	haematopoietic_and_lymphoid_tissue
+SRR8615517	MJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MJ	lymphoid_neoplasm (mycosis_fungoides-Sezary_syndrome)	primary		2.85E-01	1.60E-03	haematopoietic_and_lymphoid_tissue
+SRR8615520	MINO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Mino	lymphoid_neoplasm (mantle_cell_lymphoma)	primary		2.70E-01	3.03E-03	haematopoietic_and_lymphoid_tissue
+SRR8615522	MHHNB11_AUTONOMIC_GANGLIA	MHH-NB-11	neuroblastoma	metastasis	"adherent, fibroblast-like cells growing as monolayers"	5.80E-01	2.61E-12	autonomic_ganglia
+SRR8615523	MHHCALL3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHH-CALL-3	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	"single,relatively small round cells growing in suspention"	2.92E-01	1.18E-03	haematopoietic_and_lymphoid_tissue
+SRR8615527	CAL78_BONE	CAL-78	chondrosarcoma (dedifferentiated)	primary	"Adherent fibroblast, extremely slow. A lot of debris present"	8.02E-01	7.14E-23	bone
+SRR8615531	CALU6_LUNG	Calu-6	carcinoma (undifferentiated_carcinoma)	primary	Adherent	6.20E-01	5.82E-14	lung
+SRR8615534	CALU3_LUNG	Calu-3	carcinoma (adenocarcinoma)	metastasis		-2.92E-01	1.18E-03	lung
+SRR8615570	SNU1066_UPPER_AERODIGESTIVE_TRACT	SNU-1066	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	upper_aerodigestive_tract
+SRR8615592	RDES_BONE	RD-ES	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	primary		5.24E-01	3.55E-10	bone
+SRR8615595	RD_SOFT_TISSUE	RD	rhabdomyosarcoma (embryonal)	primary	Adherent Spindle cells and large multinucleated cells	8.35E-01	9.64E-25	soft_tissue
+SRR8615603	NCIH1944_LUNG	NCI-H1944	carcinoma (non_small_cell_carcinoma)	metastasis	Adherent	1.61E-01	1.29E-01	lung
+SRR8615605	NCIH2106_LUNG	NCI-H2106	carcinoma (non_small_cell_carcinoma)	metastasis		-1.22E-01	3.10E-01	lung
+SRR8615608	NCIH1838_LUNG	NCI-H1838	carcinoma (non_small_cell_carcinoma)	primary	ADHERENT	1.15E-01	3.52E-01	lung
+SRR8615611	NCIH1793_LUNG	NCI-H1793	carcinoma (non_small_cell_carcinoma)	primary	adherent; epithelial	3.38E-01	1.19E-04	lung
+SRR8615613	NCIH1915_LUNG	NCI-H1915	carcinoma (large_cell_carcinoma)	metastasis	adherent	NA	NA	lung
+SRR8615617	COLO829_SKIN	COLO 829	malignant_melanoma	primary	Adherent fibroblast.	6.22E-01	4.92E-14	skin
+SRR8615622	HEC251_ENDOMETRIUM	HEC-251	carcinoma (adenocarcinoma)	primary	epithelial-like	-2.19E-01	2.27E-02	endometrium
+SRR8615623	HEC265_ENDOMETRIUM	HEC-265	carcinoma (adenocarcinoma)	primary	epithelial-like	-1.96E-01	4.81E-02	endometrium
+SRR8615624	ECC12_STOMACH	ECC12	carcinoma (small_cell_adenocarcinoma)	metastasis	Adherent	NA	NA	stomach
+SRR8615626	HEC6_ENDOMETRIUM	HEC-6	carcinoma (adenocarcinoma)	primary	epithelial-like	3.09E-01	5.23E-04	endometrium
+SRR8615637	A2058_SKIN	A2058	malignant_melanoma	metastasis		6.21E-01	5.35E-14	skin
+SRR8615638	A204_SOFT_TISSUE	A-204	rhabdoid_tumour	primary		6.51E-01	2.66E-15	soft_tissue
+SRR8615643	769P_KIDNEY	769-P	carcinoma (clear_cell_renal_cell_carcinoma)	primary	Epithelial adherent	3.64E-01	2.74E-05	kidney
+SRR8615653	SNU503_LARGE_INTESTINE	SNU-503	carcinoma	primary		-2.87E-01	1.43E-03	large_intestine
+SRR8615677	SKBR3_BREAST	SK-BR-3	carcinoma	metastasis		-5.71E-01	6.13E-12	breast
+SRR8615679	SKES1_BONE	SK-ES-1	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	primary		5.77E-01	3.30E-12	bone
+SRR8615680	SKCO1_LARGE_INTESTINE	SK-CO-1	carcinoma (adenocarcinoma)	primary	ADHERENT EPITHELIAL;	-6.17E-01	7.47E-14	large_intestine
+SRR8615683	L540_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-540	lymphoid_neoplasm (Hodgkin_lymphoma)	metastasis	round cells growing singly in suspention	2.83E-01	1.73E-03	haematopoietic_and_lymphoid_tissue
+SRR8615685	PANC1_PANCREAS	PANC-1	carcinoma (ductal_carcinoma)	primary		4.58E-01	5.82E-08	pancreas
+SRR8615689	U178_CENTRAL_NERVOUS_SYSTEM	U-178	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	NA	NA	NA	NA	central_nervous_system
+SRR8615693	U343_CENTRAL_NERVOUS_SYSTEM	U343	glioma (astrocytoma_Grade_III)	NA	NA	NA	NA	central_nervous_system
+SRR8615702	KNS60_CENTRAL_NERVOUS_SYSTEM	KNS-60	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	polygonal-epithelial	7.30E-01	4.64E-19	central_nervous_system
+SRR8615705	KARPAS620_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS-620	lymphoid_neoplasm (plasma_cell_myeloma)	primary	single round to polymorph cells growing in suspension	2.04E-01	3.68E-02	haematopoietic_and_lymphoid_tissue
+SRR8615706	KOPN8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KOPN-8	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	single round rather small cells growing in suspention	2.35E-01	1.27E-02	haematopoietic_and_lymphoid_tissue
+SRR8615716	K029AX_SKIN	K029AX	malignant_melanoma	primary		4.74E-01	1.76E-08	skin
+SRR8615717	K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K-562	"haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia\, Ph_positive)"	metastasis	SUSPENSION	3.10E-01	5.02E-04	haematopoietic_and_lymphoid_tissue
+SRR8615720	TUHR14TKB_KIDNEY	TUHR14TKB	carcinoma	primary	ADHERENT; EPITHELIAL-LIKE	NA	NA	kidney
+SRR8615722	RH30_SOFT_TISSUE	RH-30	rhabdomyosarcoma (alveolar)	metastasis	adherent epithelial-like cells growing as monolayer	NA	NA	soft_tissue
+SRR8615724	TTC709_SOFT_TISSUE	TTC709	NA	NA	NA	NA	NA	soft_tissue
+SRR8615727	TT_OESOPHAGUS	NA	NA	NA		-3.91E-01	5.37E-06	NA
+SRR8615729	TOV21G_OVARY	TOV-21G	carcinoma (clear_cell_carcinoma)	primary	Adherent	3.79E-01	1.11E-05	ovary
+SRR8615731	TTC1240_SOFT_TISSUE	TTC1240	NA	NA	NA	NA	NA	soft_tissue
+SRR8615732	GB1_CENTRAL_NERVOUS_SYSTEM	GB-1	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	NA	NA	NA	central_nervous_system
+SRR8615736	FUOV1_OVARY	FU-OV-1	carcinoma (serous_carcinoma)	primary		5.21E-01	4.38E-10	ovary
+SRR8615742	GAMG_CENTRAL_NERVOUS_SYSTEM	GAMG	glioma	primary	"ADHERENT, LARGE, SPINDLE-LIKE CELLS GROWING AS MONOLAYERS"	7.43E-01	9.47E-20	central_nervous_system
+SRR8615744	SH10TC_STOMACH	SH-10-TC	carcinoma	primary	Adherent	5.90E-01	1.01E-12	stomach
+SRR8615753	OVKATE_OVARY	OVKATE	carcinoma (adenocarcinoma)	primary		-1.97E-01	4.57E-02	ovary
+SRR8615754	U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U-937	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis		2.57E-01	5.35E-03	haematopoietic_and_lymphoid_tissue
+SRR8615755	MDAMB134VI_BREAST	MDA-MB-134-VI	carcinoma (ductal_carcinoma)	metastasis	Mixed line	-3.11E-01	4.61E-04	breast
+SRR8615759	MALME3M_SKIN	Malme-3M	malignant_melanoma	metastasis		5.65E-01	9.70E-12	skin
+SRR8615761	M059K_CENTRAL_NERVOUS_SYSTEM	M059K	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	adherent fibroblast	7.85E-01	6.07E-22	central_nervous_system
+SRR8615774	AU565_BREAST	AU565	carcinoma	metastasis	Adherenet	-6.02E-01	3.28E-13	breast
+SRR8615776	BHT101_THYROID	BHT-101	carcinoma (anaplastic_carcinoma)	metastasis	epithelial- like cells growing in monolayers	3.81E-01	1.00E-05	thyroid
+SRR8615777	BHY_UPPER_AERODIGESTIVE_TRACT	BHY	carcinoma (squamous_cell_carcinoma)	primary	"epithelial- like polygonal or round and flat cells (sometimes spindle- form, very heterogenous) growing in monolayers"	NA	NA	upper_aerodigestive_tract
+SRR8615779	HS698T_FIBROBLAST	Hs 698.T	carcinoma (adenocarcinoma)	metastasis	Adherent	NA	NA	large_intestine
+SRR8615780	HS706T_BONE	Hs 706.T	giant_cell_tumour	primary		7.75E-01	2.15E-21	bone
+SRR8615785	HS688AT_FIBROBLAST	Hs 688(A).T	malignant_melanoma	primary	Adherent	NA	NA	skin
+SRR8615788	COLO741_SKIN	COLO 741	malignant_melanoma	metastasis		4.79E-01	1.28E-08	skin
+SRR8615794	NCIH2077_LUNG	NCI-H2077;NCI-H1581	NA	NA	NA	NA	NA	lung
+SRR8615797	RERFLCSQ1_LUNG	RERF-LC-Sq1	carcinoma (squamous_cell_carcinoma)	primary	ADHERENT; 0.05% TRYPSIN	6.73E-01	2.62E-16	lung
+SRR8615798	NCIH522_LUNG	NCI-H522	carcinoma (non_small_cell_carcinoma)	primary		5.03E-01	1.87E-09	lung
+SRR8615805	NCIH358_LUNG	NCI-H358	carcinoma (bronchioloalveolar_adenocarcinoma)	primary	adherenet	-2.29E-01	1.58E-02	lung
+SRR8615811	NCIH446_LUNG	NCI-H446	carcinoma (small_cell_carcinoma)	metastasis	Mixed; adherent and suspension	5.77E-01	3.56E-12	lung
+SRR8615824	HCC1195_LUNG	HCC-1195	carcinoma (mixed_adenosquamous_carcinoma)	primary	epithelial; monolayer	-2.21E-01	2.07E-02	lung
+SRR8615830	T98G_CENTRAL_NERVOUS_SYSTEM	T98G	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	adherent fibroblast	6.41E-01	6.94E-15	central_nervous_system
+SRR8615831	TALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TALL-1	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary		NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615837	LN215_CENTRAL_NERVOUS_SYSTEM	LN-215	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615850	HUT78_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HuT 78	lymphoid_neoplasm (mycosis_fungoides-Sezary_syndrome)	primary		3.35E-01	1.36E-04	haematopoietic_and_lymphoid_tissue
+SRR8615852	SNB75_CENTRAL_NERVOUS_SYSTEM	SNB75	glioma	primary	Adherent	NA	NA	central_nervous_system
+SRR8615853	SW900_LUNG	SW 900	carcinoma (squamous_cell_carcinoma)	primary	Adherent epithelial	1.34E-01	2.43E-01	lung
+SRR8615854	SW837_LARGE_INTESTINE	SW837	carcinoma (adenocarcinoma)	primary	Epithelial Adherent	-2.77E-01	2.26E-03	large_intestine
+SRR8615858	T24_URINARY_TRACT	T24	carcinoma (transitional_cell_carcinoma)	primary	Adherent epithelial	5.90E-01	1.01E-12	urinary_tract
+SRR8615869	FTC133_THYROID	FTC-133	carcinoma (follicular_carcinoma)	metastasis	ADHERENT	NA	NA	thyroid
+SRR8615873	OV7_OVARY	OV7	carcinoma	primary	adherent epithelial	6.34E-01	1.51E-14	ovary
+SRR8615880	OVK18_OVARY	OVK18	carcinoma (endometrioid_carcinoma)	primary	Adherent	NA	NA	ovary
+SRR8615894	TUHR4TKB_KIDNEY	TUHR4TKB	carcinoma	primary	adherent	NA	NA	kidney
+SRR8615899	NCIH1339_LUNG	NCI-H1339	carcinoma (small_cell_carcinoma)	metastasis	Adherent	NA	NA	lung
+SRR8615900	HCC33_LUNG	HCC-33	carcinoma (small_cell_carcinoma)	metastasis	ROUND TO OVOID CELLS GROWING SINGLY OR IN CLUMPS	NA	NA	lung
+SRR8615905	NCIH1355_LUNG	NCI-H1355	carcinoma (adenocarcinoma)	metastasis	Adherent	3.47E-01	7.15E-05	lung
+SRR8615914	JHH7_LIVER	JHH-7	carcinoma (hepatocellular_carcinoma)	primary		1.40E-01	2.10E-01	liver
+SRR8615917	JHOM2B_OVARY	JHOM-2B	carcinoma (adenocarcinoma)	primary	epithelial-like	NA	NA	ovary
+SRR8615926	SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-T1	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	metastasis		3.91E-01	5.37E-06	haematopoietic_and_lymphoid_tissue
+SRR8615935	SNU175_LARGE_INTESTINE	SNU-175	carcinoma	primary	"lymphoblast-like, round; suspention"	-3.78E-01	1.17E-05	large_intestine
+SRR8615977	NCIH889_LUNG	NCI-H889	carcinoma (small_cell_carcinoma)	metastasis	clusters in suspension	3.20E-01	3.01E-04	lung
+SRR8615980	NCIH1792_LUNG	NCI-H1792	carcinoma (adenocarcinoma)	metastasis	adherent	5.69E-01	7.14E-12	lung
+SRR8616009	DM3_FIBROBLAST	DM-3	mesothelioma	metastasis	"LARGE, ADHERENT CELLS; very slow grower"	NA	NA	pleura
+SRR8616076	KPL1_BREAST	KPL-1	carcinoma (ductal_carcinoma)	metastasis	adherent growing in monolayers(very dense colonies)	NA	NA	breast
+SRR8616078	KPNRTBM1_AUTONOMIC_GANGLIA	KP-N-RT-BM-1	neuroblastoma	metastasis	neuroblast-like	NA	NA	autonomic_ganglia
+SRR8616084	TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Toledo	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	primary	"suspension, lymphoblast"	2.65E-01	3.76E-03	haematopoietic_and_lymphoid_tissue
+SRR8615874	OV90_OVARY	OV-90	carcinoma (mixed_carcinoma)	metastasis	Epithelial Adherent	1.45E-01	1.87E-01	ovary
+SRR8615224	OCIMY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-MY7	NA	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615245	SW1271_LUNG	SW 1271	carcinoma (small_cell_carcinoma)	primary	adherent; epithelial	6.40E-01	7.57E-15	lung
+SRR8615259	NCIH2004RT_SOFT_TISSUE	NCI-H2004 RT	NA	NA	NA	NA	NA	soft_tissue
+SRR8615289	EFM19_BREAST	EFM-19	carcinoma (ductal_carcinoma)	metastasis	"epitheloid, growing in clusters at first, then monolayer"	-3.49E-01	6.21E-05	breast
+SRR8615308	SNU245_BILIARY_TRACT	SNU-245	carcinoma	primary	epithelial; monolayer	-7.61E-01	1.12E-20	biliary_tract
+SRR8615315	CAL54_KIDNEY	CAL-54	carcinoma (renal_cell_carcinoma)	metastasis	"epitheloid, adherent cells growing in monolayers"	3.58E-01	3.85E-05	kidney
+SRR8615351	KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-12-BM	lymphoid_neoplasm (plasma_cell_myeloma)	primary	Supsension	1.87E-01	6.23E-02	haematopoietic_and_lymphoid_tissue
+SRR8615361	KASUMI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M2)"	primary		2.80E-01	2.02E-03	haematopoietic_and_lymphoid_tissue
+SRR8615364	KD_SOFT_TISSUE	KD	NA	NA	NA	NA	NA	soft_tissue
+SRR8615365	KCL22_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KCL-22	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	metastasis	"round, single cells in suspention, sometimes in small clusters"	3.89E-01	5.97E-06	haematopoietic_and_lymphoid_tissue
+SRR8615372	SR786_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SR-786	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)	metastasis	"ovoid- to round, sometimes irregular, occasinally with apical processes, growing in suspention, singly or in small clumps"	3.17E-01	3.43E-04	haematopoietic_and_lymphoid_tissue
+SRR8615380	GRANTA519_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GRANTA-519	lymphoid_neoplasm (mantle_cell_lymphoma)	primary	"spheroid cells growing in suspention, singly or in clumps"	2.98E-01	8.90E-04	haematopoietic_and_lymphoid_tissue
+SRR8615383	GMS10_CENTRAL_NERVOUS_SYSTEM	GMS-10	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	fibroblst-like cells growing as monolayers	7.02E-01	1.12E-17	central_nervous_system
+SRR8615406	ACCMESO1_PLEURA	ACC-MESO-1	mesothelioma	metastasis	fibroblast-like	NA	NA	pleura
+SRR8615413	AN3CA_ENDOMETRIUM	AN3 CA	carcinoma (adenocarcinoma)	metastasis	Adherent epithelial	5.43E-01	7.29E-11	endometrium
+SRR8615421	HS343T_FIBROBLAST	Hs 343.T	carcinoma	primary		NA	NA	breast
+SRR8615427	CORL95_LUNG	COR-L95	carcinoma (small_cell_carcinoma)	primary	SUSPENSION	-1.00E-01	4.50E-01	lung
+SRR8615444	NHAHTDD_CENTRAL_NERVOUS_SYSTEM	NHAHTDD	NA	NA	NA	NA	NA	central_nervous_system
+SRR8615449	NUGC2_STOMACH	NUGC-2	carcinoma (adenocarcinoma)	primary		-1.39E-01	2.18E-01	stomach
+SRR8615451	HCC56_LARGE_INTESTINE	HCC-56	carcinoma (adenocarcinoma)	primary		-6.12E-01	1.23E-13	large_intestine
+SRR8615482	KYSE70_OESOPHAGUS	KYSE-70	carcinoma (squamous_cell_carcinoma)	primary	Epitheloid cells growing in monolayers	2.37E-01	1.15E-02	oesophagus
+SRR8615491	IOMMLEE_CENTRAL_NERVOUS_SYSTEM	IOMM-Lee	meningioma	NA	NA	NA	NA	central_nervous_system
+SRR8615502	SKNAS_AUTONOMIC_GANGLIA	SK-N-AS	neuroblastoma	primary	Adherent	7.16E-01	2.21E-18	autonomic_ganglia
+SRR8615504	SW48_LARGE_INTESTINE	SW48	carcinoma (adenocarcinoma)	primary		-3.19E-01	3.15E-04	large_intestine
+SRR8615548	LNZ308_CENTRAL_NERVOUS_SYSTEM	LNZ308	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615578	MDAMB468_BREAST	MDA-MB-468	carcinoma	metastasis	adherent epithelial	-4.31E-01	3.97E-07	breast
+SRR8615694	MOLT3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT-3	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	NA	suspension	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615697	MON_SOFT_TISSUE	MON	NA	NA	NA	NA	NA	soft_tissue
+SRR8615701	MUTZ3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MUTZ-3	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M4)"	primary	Suspension; Extremely slow grower	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615741	GA10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GA-10	lymphoid_neoplasm (Burkitt_lymphoma)	primary	"suspension, lymphoblast"	1.99E-01	4.33E-02	haematopoietic_and_lymphoid_tissue
+SRR8615782	HS618T_FIBROBLAST	Hs 618.T	carcinoma (adenocarcinoma)	primary	Adherent	NA	NA	lung
+SRR8615783	HS675T_FIBROBLAST	Hs 675.T	carcinoma	primary		NA	NA	large_intestine
+SRR8615814	NCIH2126_LUNG	NCI-H2126	carcinoma (adenocarcinoma)	metastasis	adherent epithelial	-5.64E-01	1.13E-11	lung
+SRR8615844	IGROV1_OVARY	IGROV1	carcinoma (adenocarcinoma)	primary		2.98E-01	8.55E-04	ovary
+SRR8615860	SKRC20_KIDNEY	SK-RC-20	carcinoma (clear_cell_renal_cell_carcinoma)	NA	NA	NA	NA	kidney
+SRR8615940	SKNFI_AUTONOMIC_GANGLIA	SK-N-FI	neuroblastoma	metastasis		5.42E-01	7.85E-11	autonomic_ganglia
+SRR8615941	KMS34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-34	lymphoid_neoplasm (plasma_cell_myeloma)	primary	Supsension	2.36E-01	1.19E-02	haematopoietic_and_lymphoid_tissue
+SRR8615957	D283MED_CENTRAL_NERVOUS_SYSTEM	D283 Med	primitive_neuroectodermal_tumour-medulloblastoma	metastasis		4.97E-01	3.21E-09	central_nervous_system
+SRR8616003	DMS153_LUNG	DMS 153	carcinoma (small_cell_carcinoma)	metastasis	"Mixed line, loosely adherent"	-1.48E-01	1.76E-01	lung
+SRR8616016	A4FUK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A4/Fuk	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	primary	SUSPENSION	1.77E-01	8.37E-02	haematopoietic_and_lymphoid_tissue
+SRR8616031	SNU719_STOMACH	SNU-719	carcinoma	primary	epithelial; monolayer	NA	NA	stomach
+SRR8616096	SCLC21H_LUNG	SCLC-21H	carcinoma (small_cell_carcinoma)	metastasis	growing in suspention in mall or very big clusters(sheets)- cells are not adherent	2.12E-01	2.86E-02	lung
+SRR8616113	NCIH2286_LUNG	NCI-H2286	carcinoma (small_cell_carcinoma)	primary		6.23E-01	4.16E-14	lung
+SRR8615298	PECAPJ41CLONED2_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ41 (clone D2)	carcinoma (squamous_cell_carcinoma)	primary		9.35E-02	5.00E-01	upper_aerodigestive_tract
+SRR8615306	SNU308_BILIARY_TRACT	SNU-308	carcinoma	primary	epithelial; monolayer	-4.13E-01	1.31E-06	biliary_tract
+SRR8615318	NALM19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM-19	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)	primary	small single round cells growing in suspension; small clumps	1.62E-01	1.26E-01	haematopoietic_and_lymphoid_tissue
+SRR8615387	LI7_LIVER	Li-7	carcinoma (hepatocellular_carcinoma)	primary	epithelial-like	NA	NA	liver
+SRR8615555	JL1_PLEURA	JL-1	mesothelioma	primary		NA	NA	pleura
+SRR8615757	MCAS_OVARY	MCAS	carcinoma (adenocarcinoma)	primary	Adherent; DT=27hrs	-3.32E-01	1.56E-04	ovary
+SRR8615861	SKUT1_SOFT_TISSUE	SK-UT-1	leiomyosarcoma	primary	adherent epithelial	6.58E-01	1.20E-15	soft_tissue
+SRR8615916	JHOM1_OVARY	JHOM-1	carcinoma (adenocarcinoma)	primary	ADHERENT; EPITHELIAL-LIKE	NA	NA	ovary
+SRR8615225	OCUM1_STOMACH	OCUM-1	carcinoma (diffuse_adenocarcinoma)	primary		-5.65E-01	1.05E-11	stomach
+SRR8615242	OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCI-AML3	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M4)"	primary	"single, mostly round cells growing in suspention"	3.46E-01	7.49E-05	haematopoietic_and_lymphoid_tissue
+SRR8615261	NCIH196_LUNG	NCI-H196	carcinoma (small_cell_carcinoma)	metastasis	Adherent	7.34E-01	2.83E-19	lung
+SRR8615286	EKVX_LUNG	EKVX	carcinoma (adenocarcinoma)	primary	Adherent	NA	NA	lung
+SRR8615295	PK45H_PANCREAS	PK-45H	carcinoma	primary	Adherent	4.71E-01	2.27E-08	pancreas
+SRR8615304	PEER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PEER	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	lymphocyte-like	3.18E-01	3.28E-04	haematopoietic_and_lymphoid_tissue
+SRR8615307	SNU283_LARGE_INTESTINE	SNU-283	carcinoma	primary	"epithelial; monolayer, clumping"	-7.64E-01	8.26E-21	large_intestine
+SRR8615342	NCCSTCK140_STOMACH	NCC-StC-K140	carcinoma	primary	other	NA	NA	stomach
+SRR8615347	KMS26_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-26	lymphoid_neoplasm (plasma_cell_myeloma)	primary	suspension	2.86E-01	1.54E-03	haematopoietic_and_lymphoid_tissue
+SRR8615370	PANC0504_PANCREAS	Panc 05.04	carcinoma	primary	Adherent	-4.73E-01	2.00E-08	pancreas
+SRR8615409	AML193_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AML-193	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M5)"	primary	suspension	1.79E-01	7.78E-02	haematopoietic_and_lymphoid_tissue
+SRR8615435	RPMI8402_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI-8402	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	SUSPENSION	2.81E-01	1.94E-03	haematopoietic_and_lymphoid_tissue
+SRR8615445	NIHOVCAR3_OVARY	NIH:OVCAR-3	carcinoma	metastasis	adherenet; epithelial	-8.16E-02	5.89E-01	ovary
+SRR8615456	HCC44_LUNG	HCC-44	carcinoma (adenocarcinoma)	primary	Adhrent cells growing as monolayers; dt=30hrs	4.42E-01	1.84E-07	lung
+SRR8615469	TE5_OESOPHAGUS	TE-5	carcinoma (squamous_cell_carcinoma)	primary	Epithelial-like	-2.87E-01	1.43E-03	oesophagus
+SRR8615487	ISTMES2_PLEURA	IST-MES2	mesothelioma	metastasis		5.71E-01	6.13E-12	pleura
+SRR8615492	INA6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	INA-6	NA	NA	NA	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615530	NCIH3122_LUNG	NCI-H3122	NA	NA	NA	NA	NA	lung
+SRR8615564	SW1463_LARGE_INTESTINE	SW1463	carcinoma (adenocarcinoma)	primary	ADHERENT EPITHELIAL;	-6.65E-01	5.90E-16	large_intestine
+SRR8615583	MDAMB435S_SKIN	MDA-MB-435S	malignant_melanoma	primary		NA	NA	skin
+SRR8615632	DND41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DND-41	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	"round cells growing singl or, occasionally, in clumps"	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615672	TGBC11TKB_STOMACH	TGBC11TKB	carcinoma	metastasis	epithelial-like	NA	NA	stomach
+SRR8615710	JVM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JVM-2	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)	primary	"lymphoblastoid, round to polygonal cells growing in clusters in suspention"	1.86E-01	6.39E-02	haematopoietic_and_lymphoid_tissue
+SRR8615721	TUHR10TKB_KIDNEY	TUHR10TKB	carcinoma	primary	epithelial-like	NA	NA	kidney
+SRR8615748	SF539_CENTRAL_NERVOUS_SYSTEM	SF539	glioma	primary	Mix	NA	NA	central_nervous_system
+SRR8615804	NCIH441_LUNG	NCI-H441	carcinoma (adenocarcinoma)	metastasis	Adherent; DT=58hrs	-4.40E-01	2.08E-07	lung
+SRR8615823	HCC1359_LUNG	HCC-1359	carcinoma (large_cell_carcinoma)	primary	"ADHERENT, EPITHELIAL MONOLAYER"	NA	NA	lung
+SRR8615871	OVCAR8_OVARY	OVCAR-8	carcinoma	primary		6.62E-01	8.43E-16	ovary
+SRR8615877	OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OPM-2	lymphoid_neoplasm (plasma_cell_myeloma)	primary	suspension	2.13E-01	2.78E-02	haematopoietic_and_lymphoid_tissue
+SRR8615884	HS870T_FIBROBLAST	Hs 870.T	osteosarcoma	primary		NA	NA	bone
+SRR8615887	HS939T_SKIN	Hs 939.T	malignant_melanoma	primary	"Large adherent cells, quite a bit of debris"	7.14E-01	2.68E-18	skin
+SRR8615889	HS944T_SKIN	Hs 944.T	malignant_melanoma	metastasis		6.34E-01	1.38E-14	skin
+SRR8615927	SUPT11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-T11	lymphoid_neoplasm (peripheral_T_cell_lymphoma_unspecified)	primary	suspension	3.80E-01	1.06E-05	haematopoietic_and_lymphoid_tissue
+SRR8615931	SNU213_PANCREAS	SNU-213	carcinoma	primary	epithelial; monolayer	NA	NA	pancreas
+SRR8616002	DMS114_LUNG	DMS 114	carcinoma (small_cell_carcinoma)	primary	Adherent	6.54E-01	1.87E-15	lung
+SRR8616097	SCC25_UPPER_AERODIGESTIVE_TRACT	SCC-25	carcinoma (squamous_cell_carcinoma)	primary		3.02E-01	7.27E-04	upper_aerodigestive_tract
+SRR8615256	NCIH2029_LUNG	NCI-H2029	carcinoma (small_cell_carcinoma)	metastasis		-2.19E-01	2.27E-02	lung
+SRR8615267	CAL27_UPPER_AERODIGESTIVE_TRACT	CAL 27	carcinoma (squamous_cell_carcinoma)	primary		-2.76E-01	2.43E-03	upper_aerodigestive_tract
+SRR8615270	CAL120_BREAST	CAL-120	carcinoma	metastasis	"ADHERENT CELLS, GROWING IN MONOLAYERS"	5.37E-01	1.13E-10	breast
+SRR8615283	HCC95_LUNG	HCC-95	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	9.01E-02	5.25E-01	lung
+SRR8615291	EFE184_ENDOMETRIUM	EFE-184	carcinoma	metastasis	EPITHELOID CELLS GROWING IN MONOLAYERS	2.62E-01	4.34E-03	endometrium
+SRR8615309	SNU216_STOMACH	SNU-216	carcinoma	metastasis	epithelial; monolayer	-3.15E-01	3.73E-04	stomach
+SRR8615317	SNU407_LARGE_INTESTINE	SNU-407	carcinoma	metastasis	epithelial; monolayer	-6.08E-01	1.86E-13	large_intestine
+SRR8615319	HS751T_FIBROBLAST	Hs 751.T	lymphoid_neoplasm (Hodgkin_lymphoma)	primary		NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615322	HS746T_STOMACH	Hs 746T	carcinoma	metastasis		6.42E-01	6.37E-15	stomach
+SRR8615352	KMS18_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-18	lymphoid_neoplasm (plasma_cell_myeloma)	primary		NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615396	LS1034_LARGE_INTESTINE	LS1034	carcinoma (adenocarcinoma)	primary	adherent epithelial	-5.91E-01	9.35E-13	large_intestine
+SRR8615423	CORL279_LUNG	COR-L279	carcinoma (small_cell_carcinoma)	metastasis		NA	NA	lung
+SRR8615433	RS5_FIBROBLAST	RS-5	mesothelioma	metastasis	"adherent, sarcomatoid-like cells growing in monolayers"	NA	NA	pleura
+SRR8615437	RPMI7951_SKIN	RPMI-7951	malignant_melanoma	metastasis	"EPITHELIAL, ADHERENT"	7.45E-01	7.75E-20	skin
+SRR8615466	SNUC5_LARGE_INTESTINE	SNU-C5	carcinoma (adenocarcinoma)	primary	epithelial; monolayer	NA	NA	large_intestine
+SRR8615477	SNU899_UPPER_AERODIGESTIVE_TRACT	SNU-899	carcinoma (squamous_cell_carcinoma)	primary	epithelial; monolayer	-3.94E-01	4.58E-06	upper_aerodigestive_tract
+SRR8615485	L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-363	lymphoid_neoplasm (plasma_cell_myeloma)	primary	SUSPENSION	3.23E-01	2.53E-04	haematopoietic_and_lymphoid_tissue
+SRR8615486	L428_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L-428	lymphoid_neoplasm (Hodgkin_lymphoma)	metastasis	Supsension	3.04E-01	6.70E-04	haematopoietic_and_lymphoid_tissue
+SRR8615500	KYSE510_OESOPHAGUS	KYSE-510	carcinoma (squamous_cell_carcinoma)	primary		-1.93E-01	5.21E-02	oesophagus
+SRR8615519	MIAPACA2_PANCREAS	MIA PaCa-2	carcinoma (ductal_carcinoma)	primary		4.34E-01	3.33E-07	pancreas
+SRR8615561	SW1573_LUNG	SW 1573	carcinoma (squamous_cell_carcinoma)	primary	Adherent epithelial	6.01E-01	3.56E-13	lung
+SRR8615568	SW1990_PANCREAS	SW 1990	carcinoma (ductal_carcinoma)	primary		4.21E-01	7.90E-07	pancreas
+SRR8615769	BFTC909_KIDNEY	BFTC-909	carcinoma	primary	"epithelial-like (spindle) cells growing in monolayers; cells contain considerable amounts of small, dark granules"	7.40E-01	1.41E-19	kidney
+SRR8615799	NCIH520_LUNG	NCI-H520	carcinoma (squamous_cell_carcinoma)	primary	ADHERENT EPITHELIAL;	1.23E-01	2.99E-01	lung
+SRR8615800	RH41_SOFT_TISSUE	RH-41	rhabdomyosarcoma (alveolar)	metastasis	"adherent, epithelial-like cells growing as monolayers"	NA	NA	soft_tissue
+SRR8615815	HCC1438_LUNG	HCC-1438	carcinoma (large_cell_carcinoma)	primary	epithelial; monolayer	NA	NA	lung
+SRR8615821	HCC1419_BREAST	HCC1419	carcinoma (ductal_carcinoma)	primary		-5.88E-01	1.19E-12	breast
+SRR8615847	HUTU80_SMALL_INTESTINE	HuTu 80	carcinoma (adenocarcinoma)	primary		6.30E-01	2.12E-14	small_intestine
+SRR8615904	NCIH1341_LUNG	NCI-H1341	carcinoma (small_cell_carcinoma)	metastasis	Suspension	3.81E-01	1.00E-05	lung
+SRR8615911	KG1C_CENTRAL_NERVOUS_SYSTEM	KG-1-C	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary	Adherent	7.27E-01	6.23E-19	central_nervous_system
+SRR8615915	JHOC5_OVARY	JHOC-5	carcinoma (clear_cell_carcinoma)	primary	epithelial-like	NA	NA	ovary
+SRR8615979	NCIH1781_LUNG	NCI-H1781	carcinoma (bronchioloalveolar_adenocarcinoma)	metastasis	Adherent	-5.54E-01	2.59E-11	lung
+SRR8616152	NCIH69_LUNG	NCI-H69	carcinoma (small_cell_carcinoma)	metastasis	floating aggregates	1.55E-01	1.50E-01	lung
+SRR8615268	CAL148_BREAST	CAL-148	carcinoma (ductal_carcinoma)	metastasis	Epitheloid cells as single cells or as clumps in suspension and monolayer	NA	NA	breast
+SRR8615327	HS839T_FIBROBLAST	Hs 839.T	malignant_melanoma	primary	Adherent	NA	NA	skin
+SRR8615422	CORL24_LUNG	COR-L24	carcinoma (small_cell_carcinoma)	primary	Aggregates in suspension	2.81E-01	1.87E-03	lung
+SRR8615460	HCC78_LUNG	HCC-78	carcinoma (adenocarcinoma)	metastasis	Adhrent and aggregates; dt=60-70hrs	-3.18E-01	3.28E-04	lung
+SRR8615481	KYSE520_OESOPHAGUS	KYSE-520	carcinoma (squamous_cell_carcinoma)	primary	Adherent	3.50E-01	5.92E-05	oesophagus
+SRR8615222	TE15_OESOPHAGUS	TE-15	carcinoma (squamous_cell_carcinoma)	primary		-2.59E-01	4.99E-03	oesophagus
+SRR8615235	MFE319_ENDOMETRIUM	MFE-319	carcinoma (adenocarcinoma)	primary		9.86E-02	4.62E-01	endometrium
+SRR8615251	CCK81_LARGE_INTESTINE	CCK-81	carcinoma (adenocarcinoma)	primary		-5.91E-01	9.35E-13	large_intestine
+SRR8615272	CAKI1_KIDNEY	Caki-1	carcinoma (clear_cell_renal_cell_carcinoma)	metastasis	Adherent epithelial.	5.67E-01	8.33E-12	kidney
+SRR8615282	HCT116_LARGE_INTESTINE	HCT 116	carcinoma	primary		2.22E-01	2.01E-02	large_intestine
+SRR8615285	EJM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EJM	lymphoid_neoplasm (plasma_cell_myeloma)	primary	suspension	1.44E-01	1.94E-01	haematopoietic_and_lymphoid_tissue
+SRR8615294	EN_ENDOMETRIUM	EN	carcinoma	primary	adherent epitheloid cells growing in monolayers	5.96E-01	5.78E-13	endometrium
+SRR8615299	PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	PE/CA-PJ34 (clone C12)	carcinoma (squamous_cell_carcinoma)	primary		-1.24E-01	2.95E-01	upper_aerodigestive_tract
+SRR8615310	SNU398_LIVER	SNU-398	carcinoma (hepatocellular_carcinoma)	primary		6.34E-01	1.51E-14	liver
+SRR8615321	HS742T_FIBROBLAST	Hs 742.T	carcinoma	primary	adherent fibroblast	NA	NA	breast
+SRR8615377	PANC1005_PANCREAS	Panc 10.05	carcinoma (ductal_carcinoma)	primary		NA	NA	pancreas
+SRR8615382	GOS3_CENTRAL_NERVOUS_SYSTEM	GOS-3	glioma (astrocytoma)	primary		6.99E-01	1.49E-17	central_nervous_system
+SRR8615385	GDM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GDM-1	"haematopoietic_neoplasm (acute_myeloid_leukaemia\, M4)"	primary		3.36E-01	1.30E-04	haematopoietic_and_lymphoid_tissue
+SRR8615404	AGS_STOMACH	AGS	carcinoma (adenocarcinoma)	primary		-4.24E-01	6.29E-07	stomach
+SRR8615411	ALLSIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ALL-SIL	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)	primary	Mostly round cellsgrowing singly or in small clusters in suspention	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615432	RT112_URINARY_TRACT	RT-112	carcinoma (transitional_cell_carcinoma)	primary	Adherent	-5.26E-01	3.08E-10	urinary_tract
+SRR8615441	NUDUL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NU-DUL-1	lymphoid_neoplasm (B_cell_lymphoma_unspecified)	metastasis	polymorphic cells growing singly in suspention	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615453	HCC461_LUNG	HCC461	NA	NA	NA	NA	NA	lung
+SRR8615471	SNU878_LIVER	SNU-878	carcinoma (hepatocellular_carcinoma)	primary	Epithelial monolayer	3.31E-01	1.70E-04	liver
+SRR8615490	J82_URINARY_TRACT	J82	carcinoma (transitional_cell_carcinoma)	primary	epithelial adherent	6.44E-01	5.35E-15	urinary_tract
+SRR8615507	CAOV3_OVARY	Caov-3	carcinoma (adenocarcinoma)	primary		1.38E-01	2.22E-01	ovary
+SRR8615545	LN443_CENTRAL_NERVOUS_SYSTEM	LN-443	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615556	JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JK-1	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)	primary	round single cells growing in suspention (cell pellet shows dedish color hemoglobin)	2.42E-01	9.49E-03	haematopoietic_and_lymphoid_tissue
+SRR8615581	MDAMB361_BREAST	MDA-MB-361	carcinoma	metastasis	loosely adherent epithelial	-2.36E-01	1.23E-02	breast
+SRR8615609	NCIH1836_LUNG	NCI-H1836	carcinoma (small_cell_carcinoma)	primary	Mixed Line	7.14E-02	6.67E-01	lung
+SRR8615614	NCIH1876_LUNG	NCI-H1876	carcinoma (small_cell_carcinoma)	metastasis	Adherent epithelial	2.39E-01	1.08E-02	lung
+SRR8615663	HUH28_BILIARY_TRACT	HuH28	carcinoma	primary	adherent	6.39E-01	9.00E-15	biliary_tract
+SRR8615688	U118MG_CENTRAL_NERVOUS_SYSTEM	U-118 MG	glioma (astrocytoma)	primary	Adherent	NA	NA	central_nervous_system
+SRR8615700	MSTO211H_PLEURA	MSTO-211H	mesothelioma	metastasis	adherenet	7.45E-01	7.75E-20	pleura
+SRR8615766	MDAMB175VII_BREAST	MDA-MB-175-VII	carcinoma (ductal_carcinoma)	metastasis	Adherent	-7.16E-01	2.21E-18	breast
+SRR8615802	NCIH2087_LUNG	NCI-H2087	carcinoma (adenocarcinoma)	metastasis		-2.16E-01	2.47E-02	lung
+SRR8615816	HCC1428_BREAST	HCC1428	carcinoma	metastasis	Adherent; large epithelial cells with occasional vacuole formation	NA	NA	breast
+SRR8615819	HCC1143_BREAST	HCC1143	carcinoma (ductal_carcinoma)	primary	Adherent	6.38E-02	7.24E-01	breast
+SRR8615832	TC71_BONE	TC-71	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	primary		5.34E-01	1.51E-10	bone
+SRR8615835	LN235_CENTRAL_NERVOUS_SYSTEM	LN-235	glioma (astrocytoma_Grade_IV)	NA	NA	NA	NA	central_nervous_system
+SRR8615842	IMR32_AUTONOMIC_GANGLIA	IMR-32	neuroblastoma	primary		5.94E-01	7.35E-13	autonomic_ganglia
+SRR8615846	IGR37_SKIN	IGR-37	malignant_melanoma	metastasis		4.54E-01	7.91E-08	skin
+SRR8615867	ONS76_CENTRAL_NERVOUS_SYSTEM	ONS-76	primitive_neuroectodermal_tumour-medulloblastoma	primary	epithelial-like	4.84E-01	8.65E-09	central_nervous_system
+SRR8615888	HS936T_SKIN	Hs 936.T	malignant_melanoma	primary		5.14E-01	7.66E-10	skin
+SRR8615897	HCC364_LUNG	HCC364	carcinoma (adenocarcinoma)	NA	NA	NA	NA	lung
+SRR8615928	SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUP-M2	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)	metastasis	round cells growing singly or in clumps in suspension	2.70E-01	3.14E-03	haematopoietic_and_lymphoid_tissue
+SRR8615998	DMS53_LUNG	DMS 53	carcinoma (small_cell_carcinoma)	primary	Adherent	-2.86E-01	1.54E-03	lung
+SRR8616073	KS1_CENTRAL_NERVOUS_SYSTEM	KS-1	"glioma (astrocytoma_Grade_IV\, glioblastoma_multiforme)"	primary		7.37E-01	1.90E-19	central_nervous_system
+SRR8615233	MELHO_SKIN	MEL-HO	malignant_melanoma	primary	"EPITHELIAL-LIKE ADHERENT CELLS WITH LONG, NARROW, OFTEN BRANCHING CELL BODIES"	4.21E-01	7.90E-07	skin
+SRR8615246	CAPAN2_PANCREAS	Capan-2	carcinoma (ductal_carcinoma)	primary		-4.54E-01	7.91E-08	pancreas
+SRR8615248	CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	CCF-STTG1	glioma (astrocytoma)	primary	Adherent astrocytic	7.93E-01	2.33E-22	central_nervous_system
+SRR8615273	CADOES1_BONE	CADO-ES1	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour	metastasis	round or fusiform cells growing in clumps as adherent or semi-adherent multicellular spheroids	5.72E-01	5.25E-12	bone
+SRR8615279	HDMYZ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HD-MY-Z	lymphoid_neoplasm (Hodgkin_lymphoma)	metastasis	Variable morphology	7.47E-01	6.34E-20	haematopoietic_and_lymphoid_tissue
+SRR8615290	EFO21_OVARY	EFO-21	carcinoma (serous_carcinoma)	metastasis		3.94E-01	4.58E-06	ovary
+SRR8615302	PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Pfeiffer	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)	metastasis	"suspension, lymphoblast"	1.64E-01	1.18E-01	haematopoietic_and_lymphoid_tissue
+SRR8615348	KMS27_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS-27	lymphoid_neoplasm (plasma_cell_myeloma)	primary	suspension	2.59E-01	4.99E-03	haematopoietic_and_lymphoid_tissue
+SRR8615360	KASUMI2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI-2	"lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia\, L2)"	primary	small round cells growing singly or in small clumps in suspension; some loosely adherent	NA	NA	haematopoietic_and_lymphoid_tissue
+SRR8615374	STM9101_SOFT_TISSUE	STM9101	NA	NA	NA	NA	NA	soft_tissue
+SRR8615403	LN319_CENTRAL_NERVOUS_SYSTEM	LN-319	glioma (astrocytoma_Grade_III)	NA	NA	NA	NA	central_nervous_system
+SRR8615431	RT4_URINARY_TRACT	RT4	"carcinoma (transitional_cell_carcinoma\, papillary_transitional_cell_carcinoma)"	primary	Adherent epithelial	-5.21E-01	4.38E-10	urinary_tract
+SRR8615452	HCC70_BREAST	HCC70	carcinoma (ductal_carcinoma)	primary		-4.46E-01	1.37E-07	breast
+SRR8615498	NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCI-H929	lymphoid_neoplasm (plasma_cell_myeloma)	metastasis	Suspension	1.95E-01	4.94E-02	haematopoietic_and_lymphoid_tissue
+SRR8615553	JHUEM2_ENDOMETRIUM	JHUEM-2	carcinoma (adenocarcinoma)	primary		6.90E-01	4.17E-17	endometrium
+SRR8615610	NCIH1819_LUNG	NCI-H1819	NA	NA	NA	NA	NA	lung
+SRR8615866	SLR25_KIDNEY	SLR 25	carcinoma (renal_cell_carcinoma)	primary	NA	NA	NA	kidney
+SRR8615885	HS934T_FIBROBLAST	Hs 934.T	malignant_melanoma	primary	Adherent	NA	NA	skin
+SRR8615983	NCIH1694_LUNG	NCI-H1694	carcinoma (small_cell_carcinoma)	metastasis	suspension line; lots of debris	4.42E-01	1.84E-07	lung
+SRR8616041	HSC3_UPPER_AERODIGESTIVE_TRACT	HSC-3	carcinoma (squamous_cell_carcinoma)	metastasis		2.37E-01	1.15E-02	upper_aerodigestive_tract
+SRR8616048	SKMEL1_SKIN	SK-MEL-1	malignant_melanoma	metastasis		4.72E-01	2.13E-08	skin
+SRR8615489	JEKO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JeKo-1	lymphoid_neoplasm (mantle_cell_lymphoma)	primary	suspension	2.44E-01	8.89E-03	haematopoietic_and_lymphoid_tissue

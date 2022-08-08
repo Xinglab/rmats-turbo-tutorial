@@ -1,0 +1,2 @@
+rmats2sashimiplot=2.0.4
+samtools=1.15.1

@@ -1,0 +1,28 @@
+[data]
+bam_prefix = 
+miso_prefix = 
+bam_files = ["../bam/PC3E_rep1/Aligned.sortedByCoord.out.bam","../bam/PC3E_rep2/Aligned.sortedByCoord.out.bam","../bam/PC3E_rep3/Aligned.sortedByCoord.out.bam","../bam/GS689_rep1/Aligned.sortedByCoord.out.bam","../bam/GS689_rep2/Aligned.sortedByCoord.out.bam","../bam/GS689_rep3/Aligned.sortedByCoord.out.bam"]
+miso_files = ["../bam/PC3E_rep1/Aligned.sortedByCoord.out.bam","../bam/PC3E_rep2/Aligned.sortedByCoord.out.bam","../bam/PC3E_rep3/Aligned.sortedByCoord.out.bam","../bam/GS689_rep1/Aligned.sortedByCoord.out.bam","../bam/GS689_rep2/Aligned.sortedByCoord.out.bam","../bam/GS689_rep3/Aligned.sortedByCoord.out.bam"]
+[plotting]
+group_info = True
+font_size = 8
+reverse_minus = True
+show_xlabel = True
+nyticks = 4
+min_counts = 0
+text_background = True
+logged = False
+plot_label = plot_label
+show_ylabel = True
+fig_height = 7
+nxticks = 6
+plot_title = "gene symbol"
+exon_scale = 1
+fig_width = 8
+intron_scale = 5
+resolution = .5
+bar_posteriors = False
+number_junctions = True
+show_posteriors = False
+colors = ["#CC0011","#CC0011","#CC0011","#FF8800","#FF8800","#FF8800"]
+sample_labels = ["MAST3 PC3E_rep-1 IncLevel: 0.11","MAST3 PC3E_rep-2 IncLevel: 0.04","MAST3 PC3E_rep-3 IncLevel: 0.11","MAST3 GS689_rep-1 IncLevel: 0.45","MAST3 GS689_rep-2 IncLevel: 0.31","MAST3 GS689_rep-3 IncLevel: 0.46"]

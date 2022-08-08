@@ -1,0 +1,11 @@
+bioconductor-complexheatmap=2.6.2
+ipykernel=4.10.0
+jupyter_client=5.3.4
+jupyter_core=4.6.3
+python=2.7.15
+r-base=4.0.2
+r-circlize=0.4.15
+r-ggplot2=3.3.6
+r-ggrepel=0.9.1
+r-zeallot=0.1.0
+readline=8.1

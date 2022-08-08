@@ -1,0 +1,1 @@
+awk -F '\t' -v OFS='\t' 'FNR==NR{a[$7]=$8;b[$7]=$1":"$4-1"-"$5;next} ($1 in a && $2 ~ b[$1]) {print $0}' /mnt/isilon/xing_lab/wangy14/data/EMT/EMT_signature_genes_in_gencode.v31lift37.txt exp_FPKM.txt > exp_FPKM_EMT_signature_genes_in_gencode.v31lift37.txt
