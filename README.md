@@ -1,12 +1,12 @@
 # rMATS-turbo-tutorial
 Source code and input files related to the figures in the rMATS-turbo manuscript "rMATS-turbo: an efficient and flexible computational tool for alternative splicing analysis of large-scale RNA-seq data"
 
-## Figure 3
+## Figure 2
   - The static HTML format of figure generating process is demonstrated in `plot_Fig_PC3E_GS689.html`
   - Source code for generating Figure 3 is demonstrated in `plot_Fig_PC3E_GS689.ipynb`
   - Input files for generating Figure 3 is located in folder `PC3E-GS689`
   - The output files are created in `./PC3E-GS689/plot_rmats2sashimi/output/Sashimi_plot/` and `./PC3E-GS689/plot_venn_volcano`
-## Figure 4
+## Figure 3
   - The static HTML format of figure generating process is demonstrated in `plot_Fig_CCLE.html`
   - Source code for generating Figure 4 is demonstrated in `plot_Fig_CCLE.ipynb`
   - Input files for generating Figure 4 is located in folder `CCLE`
