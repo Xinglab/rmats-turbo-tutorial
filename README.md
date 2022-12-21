@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# rMATS-turbo-tutorial
+>>>>>>> 574fb5039610de9a6105fe6518ea2ff60438cef3
 Source code and input files related to the figures in the rMATS-turbo manuscript "rMATS-turbo: an efficient and flexible computational tool for alternative splicing analysis of large-scale RNA-seq data"
 
 ## Figure 2
